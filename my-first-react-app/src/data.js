@@ -1,7 +1,6 @@
 export const birthdays = [
   {
-    image:
-      "https://images.pexels.com/photos/428333/pexels-photo-428333.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "/assets/milton.jpeg",
     name: "Milton Kumirai",
     birthday: "18 Sept",
     job: "Web Developer",
