@@ -2,23 +2,30 @@ import { birthdays } from "./data.js";
 import months from "./months.js";
 import Header from "./components/Header.jsx";
 import Button from "./components/Button.jsx";
+import PropTypes from "prop-types";
 
 const selectMonth = (month) => {
   console.log(month);
 };
 
-function Birthday({ image, name, birthday, job }) {
+function Birthday(props) {
   return (
     <div className="birthdayCard">
-      <img src={image} alt={name} />
+      <img src={props.image} alt={props.name} />
       <div className="birthdayDetails">
-        <h3>{name}</h3>
-        <p className="birthday">{birthday}</p>
-        <p className="jobTitle">{job}</p>
+        <h3>{props.name}</h3>
+        <p className="birthday">{props.birthday}</p>
+        <p className="jobTitle">{props.job}</p>
       </div>
     </div>
   );
 }
+Birthday.propTypes = {
+  image: PropTypes.string.isRequired,
+  name: PropTypes.string.isRequired,
+  birthday: PropTypes.string.isRequired,
+  job: PropTypes.string.isRequired,
+};
 
 const MyApp = () => {
   return (
