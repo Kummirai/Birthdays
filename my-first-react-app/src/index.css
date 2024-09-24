@@ -106,4 +106,5 @@ body {
 .months .btn:hover {
   background: linear-gradient(30deg, #131111, #47140f);
   color: white;
+  border: none;
 }
