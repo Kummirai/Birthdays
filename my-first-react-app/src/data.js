@@ -2,7 +2,7 @@ export const birthdays = [
   {
     birth: "SEPT",
     image:
-      "https://images.pexels.com/photos/428333/pexels-photo-428333.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.6435-9/183450222_4054724281251845_2634091800033727112_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=2cTmvRRPW6EQ7kNvgHiabWM&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AqzfPutvtLE6KCGhCq43oSo&oh=00_AYBcxuWvZVUEhYLpaQbCufLKm098zrm3HC7mKylJHaw1_g&oe=6719EDFC",
     name: "Milton Kumirai",
     birthday: "18 Sept",
     job: "Web Developer",
@@ -170,7 +170,7 @@ export const birthdays = [
   {
     birth: "SEPT",
     image:
-      "https://images.pexels.com/photos/1586996/pexels-photo-1586996.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.6435-9/170048147_2955928064683719_6423659088146893448_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=IRtDysI-5E8Q7kNvgEKcQBf&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AdtzF3ctEQbeuoRS9AbN2BH&oh=00_AYAFbgI3xvf2YmaQ_-bIKkNEVRB6f3XVtL6dXwyZqx-wvQ&oe=6719F3F1",
     name: "Moses Fusi",
     birthday: "30 Sept",
     job: "Teacher",
