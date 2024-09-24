@@ -282,8 +282,8 @@ export const birthdays = [
   {
     birth: "OCT",
     image:
-      "https://images.pexels.com/photos/5711039/pexels-photo-5711039.jpeg?auto=compress&cs=tinysrgb&w=300",
-    name: "Simiso",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/451244816_459748080131438_4818204646243539863_n.jpg?stp=c0.143.864.864a_dst-jpg_s206x206&_nc_cat=101&ccb=1-7&_nc_sid=50ad20&_nc_ohc=ia-JT2JXcuoQ7kNvgG7PIXG&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCerzHe11b7YwcY9z58nM4GJkta5iTDkz8Idl90KHp4yg&oe=66F8BE7E",
+    name: "Simiso Ncube",
     birthday: "26 October",
     job: "Chef",
   },
