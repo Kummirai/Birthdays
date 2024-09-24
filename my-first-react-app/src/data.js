@@ -282,7 +282,7 @@ export const birthdays = [
   {
     birth: "OCT",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/451244816_459748080131438_4818204646243539863_n.jpg?stp=c0.143.864.864a_dst-jpg_s206x206&_nc_cat=101&ccb=1-7&_nc_sid=50ad20&_nc_ohc=ia-JT2JXcuoQ7kNvgG7PIXG&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCerzHe11b7YwcY9z58nM4GJkta5iTDkz8Idl90KHp4yg&oe=66F8BE7E",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/289636800_102380152534901_1826825140103341355_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=TPy2V-KNMrIQ7kNvgHBMhKN&_nc_ht=scontent-jnb2-1.xx&oh=00_AYAmKc3iU4XKGFK023dGZ-ddt3SViaH09TkGvk97TCywfQ&oe=66F8C723",
     name: "Simiso Ncube",
     birthday: "26 October",
     job: "Chef",
