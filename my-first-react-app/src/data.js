@@ -335,4 +335,12 @@ export const birthdays = [
     birthday: "18 Sept",
     job: "Cook",
   },
+  {
+    birth: "MAY",
+    image:
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.6435-1/138392991_221697129595306_6248928143083973228_n.jpg?stp=dst-jpg_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=gssSLB3pMm4Q7kNvgHAI_mb&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AOp9laCFqCJPTeIsiJjNgqR&oh=00_AYCjeS6myxRnAY7EIe1Xo94jgWgWRTq9-vwV4c4GoY4JqQ&oe=671A2CA6",
+    name: "Thenjie Madubazi",
+    birthday: "26 May",
+    job: "Hair Dresser",
+  },
 ];
