@@ -10,7 +10,7 @@ export const birthdays = [
   {
     birth: "JAN",
     image:
-      "https://images.pexels.com/photos/1090387/pexels-photo-1090387.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/357753606_174112375647609_9064334791907492868_n.jpg?stp=c200.0.1200.1200a_dst-jpg_s206x206&_nc_cat=102&ccb=1-7&_nc_sid=50ad20&_nc_ohc=4IM4bIMdrhQQ7kNvgFXsl_s&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A5GO2PfwRwszMD8LEfqgPen&oh=00_AYCl1Ks180AfPkvA91zOQYJV-NeF_57SVH7JcRE2s3ku8Q&oe=66F8668A",
     name: "Freelance Moyo",
     birthday: "3 Jan",
     job: "Data Analyst",
@@ -50,7 +50,7 @@ export const birthdays = [
   {
     birth: "APR",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.6435-9/67365939_2103606209767912_6312233041733353472_n.jpg?stp=c0.79.720.720a_dst-jpg_s206x206&_nc_cat=102&ccb=1-7&_nc_sid=8f740e&_nc_ohc=8gIyRFrMaTYQ7kNvgE5QSMV&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AoepmHv_z7BQf_GABXHQH9N&oh=00_AYCpxidI1qG-uOYBgiLlk97ekB7YbhqgndKR32OMXUZ9aA&oe=6719E197",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/385749298_228640700194776_4305483988846488504_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=AAsn5wyPs3oQ7kNvgGcNHwK&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A34e6UbScnSsLRo7P3la4_N&oh=00_AYAdAsMCnv7U0P6mptlYuUTk48JhgZPEVbRS1DvxW3Oxjg&oe=66F856FD",
     name: "Khulekani Khumalo",
     birthday: "23 April",
     job: "Proffessional Driver",
@@ -186,7 +186,7 @@ export const birthdays = [
   {
     birth: "MAY",
     image:
-      "https://images.pexels.com/photos/1079791/pexels-photo-1079791.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/340471503_811379477078874_2938963921617377213_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=NifiNrwNoRwQ7kNvgE8r7W9&_nc_ht=scontent-jnb2-1.xx&oh=00_AYAJEO_DY7AkZd9-Fjd4gGr_04MKNrTiQKakISZwjInFoA&oe=66F851D0",
     name: "Sisa Nkala",
     birthday: "18 May",
     job: "Chef",
