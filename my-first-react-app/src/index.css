@@ -44,7 +44,7 @@ body {
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
   gap: 14px;
-  /* box-shadow: 0 0 10px rgba(255, 255, 255, 0.3); */
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
   height: fit-content;
   border-radius: 1px;
   background-color: #1b1b1e;
