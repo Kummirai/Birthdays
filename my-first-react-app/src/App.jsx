@@ -13,7 +13,6 @@ function Birthday(props) {
         backgroundImage: `url(${props.image})`,
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
-        height: "300px",
         objectFit: "cover",
       }}
     >
@@ -58,7 +57,7 @@ const MyApp = () => {
         <Button onSelect={() => selectMonth("NOV")} month={months[10]} />
         <Button onSelect={() => selectMonth("DEC")} month={months[11]} />
       </div>
-
+      <div className="myCard">
       {myBirthdays.map((birth, index) => (
         <Birthday
           key={index}
@@ -66,8 +65,8 @@ const MyApp = () => {
           name={birth.name}
           birthday={birth.birthday}
           job={birth.job}
-        />
-      ))}
+        />))} 
+      </div>
     </div>
   );
 };
