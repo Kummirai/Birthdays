@@ -46,11 +46,15 @@ body {
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
   gap: 14px;
-  /* box-shadow: 0 0px 10px rgba(102, 47, 47, 0.616); */
   height: fit-content;
-  border-radius: 1px;
-  background-color: #1b1b1e;
-  backdrop-filter: blur(20px);
+  border-radius: 2px;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  /* box-shadow: 0 0 10px rgba(255, 255, 255, 0.3); */
+  background-color: rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+  cursor: pointer;
+  border: 1px solid #1b1b1e;
 }
 
 .birthdayCard img {
