@@ -18,7 +18,7 @@ export const birthdays = [
   {
     birth: "SEPT",
     image:
-      "https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/380660399_6620250041403928_7451867255820404137_n.jpg?stp=dst-jpg_s206x206&_nc_cat=107&ccb=1-7&_nc_sid=7a06f5&_nc_ohc=y3QrZ9q4bMAQ7kNvgGOt_b0&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A5I54skKBkho_lTdusUehX_&oh=00_AYAptHkhQCEOsNdyqxRaOJ_kPAS3Nrkorfdx8fzti0_DYQ&oe=66F83304",
     name: "Kayz Dube",
     birthday: "29 Sept",
     job: "Graphic Designer",
@@ -74,7 +74,7 @@ export const birthdays = [
   {
     birth: "FEB",
     image:
-      "https://images.pexels.com/photos/1181424/pexels-photo-1181424.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/318758533_3249176942014946_8743894333049547814_n.jpg?stp=dst-jpg_s206x206&_nc_cat=106&ccb=1-7&_nc_sid=7a06f5&_nc_ohc=8KjjcmKZ0vYQ7kNvgFMPbm4&_nc_ht=scontent-jnb2-1.xx&_nc_gid=Asq9ncoLLN_OZhgkC7usRdL&oh=00_AYClBcXyfv6Cg9M7EhQaD6Ceo4hx7Wk5rknmmFDTbYbWLg&oe=66F8496A",
     name: "Debra Tshuma",
     birthday: "19 Feb",
     job: "Hair Dresser",
@@ -82,7 +82,7 @@ export const birthdays = [
   {
     birth: "MAR",
     image:
-      "https://images.pexels.com/photos/2853592/pexels-photo-2853592.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/242389094_915910209321192_6317569499868056545_n.jpg?stp=c0.277.1080.1080a_dst-jpg_s206x206&_nc_cat=110&ccb=1-7&_nc_sid=50c75d&_nc_ohc=WMjwNnT5IQoQ7kNvgGIxcJg&_nc_ht=scontent-jnb2-1.xx&_nc_gid=Ax7pI6w4Hr5BDZfPAHkxFxh&oh=00_AYBiJMwPs84bYGz0Y0jXX7mjJd37ZbP95u4yVVxvhww-dg&oe=66F842A0",
     name: "Nosisa Tshuma",
     birthday: "22 March",
     job: "Fashion Designer",
@@ -90,7 +90,7 @@ export const birthdays = [
   {
     birth: "MAY",
     image:
-      "https://images.pexels.com/photos/965324/pexels-photo-965324.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/430112479_122132765612123614_83386428259867008_n.jpg?stp=dst-jpg_s206x206&_nc_cat=110&ccb=1-7&_nc_sid=d0a8c7&_nc_ohc=QxzM6scLyhoQ7kNvgFWV-5O&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCPLcuWi8D7fpC3qWbuWwNz7ol9Rk4dw2JwZaHPPLz6Rw&oe=66F856E5",
     name: "Senzile Dube",
     birthday: "14 May",
     job: "Chef",
@@ -162,7 +162,7 @@ export const birthdays = [
   {
     birth: "AUG",
     image:
-      "https://images.pexels.com/photos/785667/pexels-photo-785667.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/407897343_265034006555445_9160922475673875105_n.jpg?stp=c0.106.960.960a_dst-jpg_s206x206&_nc_cat=111&ccb=1-7&_nc_sid=50ad20&_nc_ohc=QjamPELkkDAQ7kNvgFCjnoW&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AcmlDc6OTp7g-FNkQ0VFLxb&oh=00_AYB77rWu8XpbHwnNtP2jkNe8bl9BDzlikklCwiAFz9jrdQ&oe=66F8526F",
     name: "Pamela Phiri",
     birthday: "29 August",
     job: "Chef",
@@ -226,7 +226,7 @@ export const birthdays = [
   {
     birth: "APR",
     image:
-      "https://images.pexels.com/photos/775091/pexels-photo-775091.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/407487263_265027076556138_3950022296222365989_n.jpg?stp=c0.106.960.960a_dst-jpg_s206x206&_nc_cat=108&ccb=1-7&_nc_sid=50ad20&_nc_ohc=vuOuKPRiNAwQ7kNvgGvb7or&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AlY0nHhFdp0vh2EwjcF6p7T&oh=00_AYD1U13WXBkyq12PrpVSZrrGK2Ze7SNHL1M0qnqbxRqb0w&oe=66F857FE",
     name: "Talent Khumalo",
     birthday: "3 April",
     job: "Professional Driver",
@@ -322,7 +322,7 @@ export const birthdays = [
   {
     birth: "FEB",
     image:
-      "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/345592398_528440716012513_4836317305485648974_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=RMoRRu9Pg2wQ7kNvgEO0wbi&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AFKxOcmICfviQuG0A1if6zR&oh=00_AYDX11gNHXEVAu6Ff1oS7LlFDbVdCKlJjdBImy0q-aaq8g&oe=66F83427",
     name: "Mobby Ndlovu",
     birthday: "19 February",
     job: "Cook",
