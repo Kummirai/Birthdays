@@ -7,16 +7,8 @@ import { useState } from "react";
 
 function Birthday(props) {
   return (
-    <div
-      className="birthdayCard"
-      style={{
-        backgroundImage: `url(${props.image})`,
-        backgroundSize: "cover",
-        backgroundRepeat: "no-repeat",
-        objectFit: "cover",
-      }}
-    >
-      {/* <img src={props.image} alt={props.name} /> */}
+    <div className="birthdayCard">
+      <img src={props.image} alt={props.name} />
       <div className="birthdayDetails">
         <h3>{props.name}</h3>
         <p className="birthday">{props.birthday}</p>
@@ -57,7 +49,7 @@ const MyApp = () => {
         <Button onSelect={() => selectMonth("NOV")} month={months[10]} />
         <Button onSelect={() => selectMonth("DEC")} month={months[11]} />
       </div>
-      <div className="myCard">
+
       {myBirthdays.map((birth, index) => (
         <Birthday
           key={index}
@@ -65,8 +57,8 @@ const MyApp = () => {
           name={birth.name}
           birthday={birth.birthday}
           job={birth.job}
-        />))} 
-      </div>
+        />
+      ))}
     </div>
   );
 };
