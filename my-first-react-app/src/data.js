@@ -32,14 +32,6 @@ export const birthdays = [
     job: "Chef",
   },
   {
-    birth: "OCT",
-    image:
-      "https://images.pexels.com/photos/845457/pexels-photo-845457.jpeg?auto=compress&cs=tinysrgb&w=400",
-    name: "Austin Katolika",
-    birthday: "30 Oct",
-    job: "Mechanic",
-  },
-  {
     birth: "DEC",
     image:
       "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/369675271_203693012689545_3406645001553680626_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=njuTwwsLqhwQ7kNvgHkELT8&_nc_ht=scontent-jnb2-1.xx&oh=00_AYAoG6jLSZFr0NRNkaD0Gu3spe8jpuD-qPm9x0OYpDgc5g&oe=66F85F50",
