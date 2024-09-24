@@ -27,7 +27,7 @@ body {
 .card-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  gap: 10px;
+  gap: 10px; 
   padding: 10px;
   height: 100%;
 }
@@ -37,22 +37,23 @@ body {
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
   gap: 20px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   /* padding: 18px; */
   border-radius: 1px;
-  /* background: linear-gradient(
-    44.8deg,
-    rgba(255, 136, 102, 0.67) -53.1%,
-    rgba(255, 221, 136, 0.28) 49%
-  ); */
 }
 
 .birthdayCard img {
   width: 100%;
   height: 150px;
   object-fit: cover;
-  border: 1px solid white;
+  /* border: 1px solid white; */
   object-position: top center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s;
+}
+
+.birthdayCard img:hover {
+  transform: scale(1.1);
 }
 
 .birthdayCard h3 {
@@ -73,7 +74,7 @@ body {
 .jobTitle {
   font-size: 14px;
   font-weight: 100;
-  color: #3d3532;
+  color: white;
 }
 
 .months {
@@ -89,14 +90,12 @@ body {
 .months .btn {
   padding: 9px 18px;
   background-color: white;
-  color: #000;
-  border: 1px solid black;
+  color: #1a1311;
   border-radius: 3px;
   font-size: 0.7rem;
-  box-shadow: 0 0 2px rgba(0, 0, 0, 0.8);
 }
 
 .months .btn:hover {
-  background-color: black;
+  background-color: #1a1311;
   color: white;
 }
