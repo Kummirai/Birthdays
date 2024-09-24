@@ -297,7 +297,7 @@ export const birthdays = [
   {
     birth: "DEC",
     image:
-      "https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/447402941_1222453805402450_5388303733723377921_n.jpg?stp=dst-jpg_p526x296&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ArexZBBdQhkQ7kNvgE3TAUp&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AABZNC8nBlbaT0nKFRQ-IVn&oh=00_AYBaVyNOHDT6fGLHgdGmzYHCRbPU1vNae_OOqi7sG6o8Wg&oe=66F8340F",
     name: "Patie Nkiwane",
     birthday: "6 December",
     job: "Chef",
