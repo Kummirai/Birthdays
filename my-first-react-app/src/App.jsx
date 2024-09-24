@@ -36,18 +36,18 @@ const MyApp = () => {
     <div className="card-container">
       <Header />
       <div className="months">
-        <Button onSelect={() => selectMonth("JAN")} month={months[0]} />
-        <Button onSelect={() => selectMonth("FEB")} month={months[1]} />
-        <Button onSelect={() => selectMonth("MAR")} month={months[2]} />
-        <Button onSelect={() => selectMonth("APR")} month={months[3]} />
-        <Button onSelect={() => selectMonth("MAY")} month={months[4]} />
-        <Button onSelect={() => selectMonth("JUN")} month={months[5]} />
-        <Button onSelect={() => selectMonth("JUL")} month={months[6]} />
-        <Button onSelect={() => selectMonth("AUG")} month={months[7]} />
-        <Button onSelect={() => selectMonth("SEPT")} month={months[8]} />
-        <Button onSelect={() => selectMonth("OCT")} month={months[9]} />
-        <Button onSelect={() => selectMonth("NOV")} month={months[10]} />
-        <Button onSelect={() => selectMonth("DEC")} month={months[11]} />
+        <Button isSelected={myBirthdays === "JAN"} onSelect={() => selectMonth("JAN")} month={months[0]} />
+        <Button isSelected={myBirthdays === "FEB"} onSelect={() => selectMonth("FEB")} month={months[1]} />
+        <Button isSelected={myBirthdays === "MAR"} onSelect={() => selectMonth("MAR")} month={months[2]} />
+        <Button isSelected={myBirthdays === "APR"} onSelect={() => selectMonth("APR")} month={months[3]} />
+        <Button isSelected={myBirthdays === "MAY"} onSelect={() => selectMonth("MAY")} month={months[4]} />
+        <Button isSelected={myBirthdays === "JUN"} onSelect={() => selectMonth("JUN")} month={months[5]} />
+        <Button isSelected={myBirthdays === "JUL"} onSelect={() => selectMonth("JUL")} month={months[6]} />
+        <Button isSelected={myBirthdays === "AUG"} onSelect={() => selectMonth("AUG")} month={months[7]} />
+        <Button isSelected={myBirthdays === "SEPT"} onSelect={() => selectMonth("SEPT")} month={months[8]} />
+        <Button isSelected={myBirthdays === "OCT"} onSelect={() => selectMonth("OCT")} month={months[9]} />
+        <Button isSelected={myBirthdays === "NOV"} onSelect={() => selectMonth("NOV")} month={months[10]} />
+        <Button isSelected={myBirthdays === "DEC"} onSelect={() => selectMonth("DEC")} month={months[11]} />
       </div>
 
       {myBirthdays.map((birth, index) => (
