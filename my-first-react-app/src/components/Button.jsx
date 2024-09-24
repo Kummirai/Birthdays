@@ -1,4 +1,5 @@
-const Button = (props, isSelected) => {
+/* eslint-disable react/prop-types */
+const Button = (props) => {
   return (
     <button className="btn" onClick={props.onSelect}>
       {props.month}
