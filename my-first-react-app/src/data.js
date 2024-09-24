@@ -343,4 +343,12 @@ export const birthdays = [
     birthday: "26 May",
     job: "Hair Dresser",
   },
+  {
+    birth: "JUN",
+    image:
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/357684170_174105685648278_160391493138029429_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=9OepL_4edioQ7kNvgEgtgOm&_nc_ht=scontent-jnb2-1.xx&_nc_gid=ASViM9WeZhRnMYuvfRUruZC&oh=00_AYBv-xTtzpWIt5HSBpMHXRfDpKw5qU-rnHs0AoEA7tw7ug&oe=66F879A1",
+    name: "Nomazulu Bhebhe",
+    birthday: "26 June",
+    job: "Hair Dresser",
+  },
 ];
