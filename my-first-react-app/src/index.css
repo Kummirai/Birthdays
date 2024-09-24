@@ -19,7 +19,7 @@ body {
   padding: 10px;
 }
 
-.myHeader h1{
+.myHeader h1 {
   font-size: 30px;
   font-weight: 700;
   color: #1a1311;
@@ -104,6 +104,6 @@ body {
 }
 
 .months .btn:hover {
-  background-color: #1a1311;
+  background: linear-gradient(30deg, #131111, #47140f);
   color: white;
 }
