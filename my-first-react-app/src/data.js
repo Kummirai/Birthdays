@@ -10,9 +10,9 @@ export const birthdays = [
   {
     birth: "JAN",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/357753606_174112375647609_9064334791907492868_n.jpg?stp=c200.0.1200.1200a_dst-jpg_s206x206&_nc_cat=102&ccb=1-7&_nc_sid=50ad20&_nc_ohc=4IM4bIMdrhQQ7kNvgFXsl_s&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A5GO2PfwRwszMD8LEfqgPen&oh=00_AYCl1Ks180AfPkvA91zOQYJV-NeF_57SVH7JcRE2s3ku8Q&oe=66F8668A",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/357701441_174107248981455_3111497278499106377_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=y559ROsVtiYQ7kNvgFOu2R0&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AVIwlbMI7byJ1vTqM6zHjRq&oh=00_AYAB_l_4QPCM3VXviGHZam45rorSpE_dYWDNc9kfMypM9g&oe=66F8912F",
     name: "Freelance Moyo",
-    birthday: "3 Jan",
+    birthday: "23 Jan",
     job: "Data Analyst",
   },
   {
