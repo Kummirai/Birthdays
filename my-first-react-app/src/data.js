@@ -17,16 +17,14 @@ export const birthdays = [
   },
   {
     birth: "SEPT",
-    image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/380660399_6620250041403928_7451867255820404137_n.jpg?stp=dst-jpg_s206x206&_nc_cat=107&ccb=1-7&_nc_sid=7a06f5&_nc_ohc=y3QrZ9q4bMAQ7kNvgGOt_b0&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A5I54skKBkho_lTdusUehX_&oh=00_AYAptHkhQCEOsNdyqxRaOJ_kPAS3Nrkorfdx8fzti0_DYQ&oe=66F83304",
+    image: "src/assets/Kays.jpeg",
     name: "Kayz Dube",
     birthday: "29 Sept",
     job: "Graphic Designer",
   },
   {
     birth: "MAY",
-    image:
-      "https://images.pexels.com/photos/445109/pexels-photo-445109.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image: "src/assets/sakhile.jpeg",
     name: "Sakhile Moyo",
     birthday: "29 May",
     job: "Chef",
@@ -41,24 +39,21 @@ export const birthdays = [
   },
   {
     birth: "DEC",
-    image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/369675271_203693012689545_3406645001553680626_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=njuTwwsLqhwQ7kNvgHkELT8&_nc_ht=scontent-jnb2-1.xx&oh=00_AYAoG6jLSZFr0NRNkaD0Gu3spe8jpuD-qPm9x0OYpDgc5g&oe=66F85F50",
+    image: "src/assets/audience.jpeg",
     name: "Audience Sibanda",
     birthday: "19 Dec",
     job: "Proffessional Driver",
   },
   {
     birth: "APR",
-    image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/385749298_228640700194776_4305483988846488504_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=AAsn5wyPs3oQ7kNvgGcNHwK&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A34e6UbScnSsLRo7P3la4_N&oh=00_AYAdAsMCnv7U0P6mptlYuUTk48JhgZPEVbRS1DvxW3Oxjg&oe=66F856FD",
+    image: "src/assets/kk.jpeg",
     name: "Khulekani Khumalo",
     birthday: "23 April",
     job: "Proffessional Driver",
   },
   {
     birth: "JAN",
-    image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/340743402_635503055075677_9012774665059974543_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_ohc=sPZvw6gngLUQ7kNvgGeBBVI&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A81_PtJrz6NV1e_jXRMMQtD&oh=00_AYCxcCFK6e7wZeyQTXGkFtNUV-Mf_Fi9M89GT8wsOHXeRw&oe=66F84F85",
+    image: "src/assets/mzie.jpg",
     name: "Mzingaye Ndebele",
     birthday: "5 Jan",
     job: "Proffessional Plumber",
@@ -89,8 +84,7 @@ export const birthdays = [
   },
   {
     birth: "MAY",
-    image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/430112479_122132765612123614_83386428259867008_n.jpg?stp=dst-jpg_s206x206&_nc_cat=110&ccb=1-7&_nc_sid=d0a8c7&_nc_ohc=QxzM6scLyhoQ7kNvgFWV-5O&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCPLcuWi8D7fpC3qWbuWwNz7ol9Rk4dw2JwZaHPPLz6Rw&oe=66F856E5",
+    image: "src/assets/senzile.jpeg",
     name: "Senzile Dube",
     birthday: "14 May",
     job: "Chef",
@@ -161,8 +155,7 @@ export const birthdays = [
   },
   {
     birth: "AUG",
-    image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/407897343_265034006555445_9160922475673875105_n.jpg?stp=c0.106.960.960a_dst-jpg_s206x206&_nc_cat=111&ccb=1-7&_nc_sid=50ad20&_nc_ohc=QjamPELkkDAQ7kNvgFCjnoW&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AcmlDc6OTp7g-FNkQ0VFLxb&oh=00_AYB77rWu8XpbHwnNtP2jkNe8bl9BDzlikklCwiAFz9jrdQ&oe=66F8526F",
+    image: "src/assets/pamela.jpeg",
     name: "Pamela Phiri",
     birthday: "29 August",
     job: "Chef",
@@ -177,8 +170,7 @@ export const birthdays = [
   },
   {
     birth: "OCT",
-    image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/245527788_568813674368601_7716348227149492240_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=TK_Lu5aguIsQ7kNvgFS4k0a&_nc_ht=scontent-jnb2-1.xx&oh=00_AYDFqphpdjOr0qpsDwUk4t1tji2j1dnlCxIOxCbaDSuS0A&oe=66F82756",
+    image: "src/assets/lulu.jpeg",
     name: "Patie Sibanda",
     birthday: "24 October",
     job: "Chef",
@@ -193,8 +185,7 @@ export const birthdays = [
   },
   {
     birth: "NOV",
-    image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/369532924_203690862689760_1613193417178438092_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=X5XbGpNHIyYQ7kNvgEUjDvD&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCXV6mAQFAq_tl0kB99D5kRKXWyruxyyKGFgNAMnjJAhA&oe=66F850CC",
+    image: "src/assets/mongezi.jpeg",
     name: "Mongezi Mpofu",
     birthday: "29 Nov",
     job: "Teacher",
@@ -225,8 +216,7 @@ export const birthdays = [
   },
   {
     birth: "APR",
-    image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/407487263_265027076556138_3950022296222365989_n.jpg?stp=c0.106.960.960a_dst-jpg_s206x206&_nc_cat=108&ccb=1-7&_nc_sid=50ad20&_nc_ohc=vuOuKPRiNAwQ7kNvgGvb7or&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AlY0nHhFdp0vh2EwjcF6p7T&oh=00_AYD1U13WXBkyq12PrpVSZrrGK2Ze7SNHL1M0qnqbxRqb0w&oe=66F857FE",
+    image: "src/assets/tk.jpeg",
     name: "Talent Khumalo",
     birthday: "3 April",
     job: "Professional Driver",
