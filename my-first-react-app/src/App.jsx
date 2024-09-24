@@ -3,10 +3,7 @@ import months from "./months.js";
 import Header from "./components/Header.jsx";
 import Button from "./components/Button.jsx";
 import PropTypes from "prop-types";
-
-const selectMonth = (month) => {
-  console.log(month);
-};
+import { useState } from "react";
 
 function Birthday(props) {
   return (
@@ -28,6 +25,13 @@ Birthday.propTypes = {
 };
 
 const MyApp = () => {
+  const [myBirthdays, setMyBirthdays] = useState(birthdays);
+
+  const selectMonth = (month) => {
+    const myBirthdays = birthdays.filter((birth) => birth.birth === month);
+    setMyBirthdays(myBirthdays);
+  };
+
   return (
     <div className="card-container">
       <Header />
@@ -46,7 +50,7 @@ const MyApp = () => {
         <Button onSelect={() => selectMonth("DEC")} month={months[11]} />
       </div>
 
-      {birthdays.map((birth, index) => (
+      {myBirthdays.map((birth, index) => (
         <Birthday
           key={index}
           image={birth.image}
