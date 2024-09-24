@@ -60,10 +60,9 @@ body {
 
 .birthdayCard h3 {
   color: white;
-
   width: fit-content;
   margin-bottom: 2px;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 700;
 }
 
