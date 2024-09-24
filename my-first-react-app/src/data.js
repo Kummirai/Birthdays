@@ -128,8 +128,9 @@ export const birthdays = [
     job: "Chef",
   },
   {
+    birth: "JUL",
     image:
-      "https://images.pexels.com/photos/413885/pexels-photo-413885.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/449783164_7430234567099542_4572840874129830452_n.jpg?stp=cp6_dst-jpg_p526x296&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_ccmevYPdQkQ7kNvgGoThHH&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AoLJlyOICwUrokwys13zLQ_&oh=00_AYBJYevvNk7D8Vd6QYF-_K2PHrHPUkT3hVWAhKtvfYsAKA&oe=66F83F14",
     name: "Gracious Mguni",
     birthday: "4 July",
     job: "Chef",
@@ -137,7 +138,7 @@ export const birthdays = [
   {
     birth: "JUL",
     image:
-      "https://images.pexels.com/photos/769746/pexels-photo-769746.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/402641058_324707300281052_8736792405816940482_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=8ZmqcETsUkoQ7kNvgG_dqS4&_nc_ht=scontent-jnb2-1.xx&oh=00_AYDfqDtMuErSPTIU1KQVsf6PogAqutH81Wka1CBZvdgVmg&oe=66F828EC",
     name: "Thabani Moyo",
     birthday: "23 July",
     job: "Chef",
@@ -145,7 +146,7 @@ export const birthdays = [
   {
     birth: "AUG",
     image:
-      "https://images.pexels.com/photos/255339/pexels-photo-255339.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/459007982_1690363838201804_4484297271548155209_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=PpYBTc0xwsEQ7kNvgGuT90j&_nc_ht=scontent-jnb2-1.xx&oh=00_AYDrSxD0g61wejRzGajInjWVYj1W_pMuKiFGg3uDQU6-Nw&oe=66F8584C",
     name: "Fifi Masayi",
     birthday: "16 August",
     job: "Fashion Designer",
@@ -177,7 +178,7 @@ export const birthdays = [
   {
     birth: "OCT",
     image:
-      "https://images.pexels.com/photos/355022/pexels-photo-355022.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/245527788_568813674368601_7716348227149492240_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=TK_Lu5aguIsQ7kNvgFS4k0a&_nc_ht=scontent-jnb2-1.xx&oh=00_AYDFqphpdjOr0qpsDwUk4t1tji2j1dnlCxIOxCbaDSuS0A&oe=66F82756",
     name: "Patie 'Lulu' Sibanda",
     birthday: "24 October",
     job: "Chef",
@@ -297,7 +298,7 @@ export const birthdays = [
   {
     birth: "DEC",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/447402941_1222453805402450_5388303733723377921_n.jpg?stp=dst-jpg_p526x296&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ArexZBBdQhkQ7kNvgE3TAUp&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AABZNC8nBlbaT0nKFRQ-IVn&oh=00_AYBaVyNOHDT6fGLHgdGmzYHCRbPU1vNae_OOqi7sG6o8Wg&oe=66F8340F",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/361845728_1048558619458637_4657298162654746545_n.jpg?stp=dst-jpg_p526x296&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=YXYWERuWilAQ7kNvgHJfoWd&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AYlj9VVqOR3o1cPscWyVLvf&oh=00_AYDo2uxYd4fJ5Te9EEreTCMrc0QTAdylpd-gXIUAqhuXNA&oe=66F8500D",
     name: "Patie Nkiwane",
     birthday: "6 December",
     job: "Chef",
@@ -327,4 +328,3 @@ export const birthdays = [
     job: "Cook",
   },
 ];
-
