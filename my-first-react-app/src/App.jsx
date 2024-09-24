@@ -7,8 +7,17 @@ import { useState } from "react";
 
 function Birthday(props) {
   return (
-    <div className="birthdayCard">
-      <img src={props.image} alt={props.name} />
+    <div
+      className="birthdayCard"
+      style={{
+        backgroundImage: `url(${props.image})`,
+        backgroundSize: "cover",
+        backgroundRepeat: "no-repeat",
+        height: "300px",
+        objectFit: "cover",
+      }}
+    >
+      {/* <img src={props.image} alt={props.name} /> */}
       <div className="birthdayDetails">
         <h3>{props.name}</h3>
         <p className="birthday">{props.birthday}</p>
