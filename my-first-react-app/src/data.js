@@ -5,7 +5,7 @@ export const birthdays = [
       "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.6435-9/183450222_4054724281251845_2634091800033727112_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=2cTmvRRPW6EQ7kNvgHiabWM&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AqzfPutvtLE6KCGhCq43oSo&oh=00_AYBcxuWvZVUEhYLpaQbCufLKm098zrm3HC7mKylJHaw1_g&oe=6719EDFC",
     name: "Milton Kumirai",
     birthday: "18 Sept",
-    job: "Amount Due: R100",
+    job: "Amount Due: R 100",
   },
   {
     birth: "JAN",
@@ -109,7 +109,7 @@ export const birthdays = [
       "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/404420774_6812595095503427_6457550863345402062_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=c88r1JPikgIQ7kNvgGyfHnx&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AMrfmmMvQCkuQ1QSQpZlHWt&oh=00_AYD9oL0at_wTyw_cLFlLV2tCRRLDfD0-Ukw8EiEi5JxnOg&oe=66F838E7",
     name: "Blessed Sibanda",
     birthday: "20 May",
-    job: "Amount Due: R100",
+    job: "Amount Due: R 100",
   },
   {
     birth: "MAY",
