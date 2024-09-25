@@ -5,7 +5,7 @@ export const birthdays = [
       "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.6435-9/183450222_4054724281251845_2634091800033727112_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=2cTmvRRPW6EQ7kNvgHiabWM&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AqzfPutvtLE6KCGhCq43oSo&oh=00_AYBcxuWvZVUEhYLpaQbCufLKm098zrm3HC7mKylJHaw1_g&oe=6719EDFC",
     name: "Milton Kumirai",
     birthday: "18 Sept",
-    job: "Web Developer",
+    job: "Amount Due: R100",
   },
   {
     birth: "JAN",
