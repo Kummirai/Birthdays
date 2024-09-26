@@ -12,7 +12,8 @@ function Birthday(props) {
       <div className="birthdayDetails">
         <h3>{props.name}</h3>
         <p className="birthday">{props.birthday}</p>
-        <p className="jobTitle">{props.job}</p>
+        <p className="jobTitle"><span>Amount Due:</span> {props.job}</p>
+        <p className="birthday"><span>Payout</span>: {props.payout}</p>
       </div>
     </div>
   );
@@ -22,6 +23,7 @@ Birthday.propTypes = {
   name: PropTypes.string.isRequired,
   birthday: PropTypes.string.isRequired,
   job: PropTypes.string.isRequired,
+payout: PropTypes.string.isRequired,
 };
 
 const MyApp = () => {
@@ -57,6 +59,7 @@ const MyApp = () => {
           name={birth.name}
           birthday={birth.birthday}
           job={birth.job}
+          payout={birth.payout}
         />
       ))}
     </div>

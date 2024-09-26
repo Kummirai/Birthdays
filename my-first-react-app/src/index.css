@@ -122,7 +122,12 @@ body {
 .jobTitle {
   font-size: 14px;
   font-weight: 100;
-  color: #fbfbfb;
+  color: #f56e0f;
+}
+
+span{
+  font-weight: 500;
+  color: #fbfbfb
 }
 
 .months {
@@ -161,3 +166,5 @@ body {
   font-size: 0.7rem;
   padding: 9px 18px;
 }
+
+

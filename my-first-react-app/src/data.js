@@ -1,3 +1,6 @@
+const payouts = ["Received", "Pending"];
+const [Received, Pending] = payouts;
+
 export const birthdays = [
   {
     birth: "SEPT",
@@ -5,7 +8,8 @@ export const birthdays = [
       "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.6435-9/183450222_4054724281251845_2634091800033727112_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=2cTmvRRPW6EQ7kNvgHiabWM&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AqzfPutvtLE6KCGhCq43oSo&oh=00_AYBcxuWvZVUEhYLpaQbCufLKm098zrm3HC7mKylJHaw1_g&oe=6719EDFC",
     name: "Milton Kumirai",
     birthday: "18 Sept",
-    job: "Amount Due: R 100",
+    job: "R 100",
+    payout: Received,
   },
   {
     birth: "JAN",
@@ -14,6 +18,7 @@ export const birthdays = [
     name: "Freelance Moyo",
     birthday: "23 Jan",
     job: "Data Analyst",
+    payout: Received,
   },
   {
     birth: "SEPT",
@@ -22,6 +27,7 @@ export const birthdays = [
     name: "Kayz Dube",
     birthday: "29 Sept",
     job: "Graphic Designer",
+    payout: Received,
   },
   {
     birth: "MAY",
@@ -30,6 +36,7 @@ export const birthdays = [
     name: "Sakhile Moyo",
     birthday: "29 May",
     job: "Chef",
+    payout: Received,
   },
   {
     birth: "DEC",
@@ -38,6 +45,7 @@ export const birthdays = [
     name: "Audience Sibanda",
     birthday: "19 Dec",
     job: "Proffessional Driver",
+    payout: Received,
   },
   {
     birth: "APR",
@@ -46,6 +54,7 @@ export const birthdays = [
     name: "Khulekani Khumalo",
     birthday: "23 April",
     job: "Proffessional Driver",
+    payout: Received,
   },
   {
     birth: "JAN",
@@ -54,6 +63,7 @@ export const birthdays = [
     name: "Mzingaye Ndebele",
     birthday: "5 Jan",
     job: "Proffessional Plumber",
+    payout: Received,
   },
   {
     birth: "JAN",
@@ -62,6 +72,7 @@ export const birthdays = [
     name: "Webster Nyathi",
     birthday: "6 Jan",
     job: "Backend Developer",
+    payout: Received,
   },
   {
     birth: "FEB",
@@ -70,6 +81,7 @@ export const birthdays = [
     name: "Debra Tshuma",
     birthday: "19 Feb",
     job: "Hair Dresser",
+    payout: Received,
   },
   {
     birth: "MAR",
@@ -78,6 +90,7 @@ export const birthdays = [
     name: "Nosisa Tshuma",
     birthday: "22 March",
     job: "Fashion Designer",
+    payout: Received,
   },
   {
     birth: "MAY",
@@ -86,6 +99,7 @@ export const birthdays = [
     name: "Senzile Dube",
     birthday: "14 May",
     job: "Chef",
+    payout: Received,
   },
   {
     birth: "MAY",
@@ -94,6 +108,7 @@ export const birthdays = [
     name: "Thulani Mahlangu",
     birthday: "17 May",
     job: "Proffessional Driver",
+    payout: Received,
   },
   {
     birth: "MAY",
@@ -102,6 +117,7 @@ export const birthdays = [
     name: "Thobekile",
     birthday: "18 May",
     job: "Chef",
+    payout: Received,
   },
   {
     birth: "MAY",
@@ -118,6 +134,7 @@ export const birthdays = [
     name: "Tinkie Sibanda",
     birthday: "29 May",
     job: "Chef",
+    payout: Received,
   },
   {
     birth: "JUL",
@@ -126,6 +143,7 @@ export const birthdays = [
     name: "Gracious Mguni",
     birthday: "4 July",
     job: "Chef",
+    payout: Received,
   },
   {
     birth: "JUL",
@@ -134,6 +152,7 @@ export const birthdays = [
     name: "Thabani Moyo",
     birthday: "23 July",
     job: "Chef",
+    payout: Received,
   },
   {
     birth: "AUG",
@@ -142,6 +161,7 @@ export const birthdays = [
     name: "Fifi Masayi",
     birthday: "16 August",
     job: "Fashion Designer",
+    payout: Received,
   },
   {
     birth: "AUG",
@@ -150,6 +170,7 @@ export const birthdays = [
     name: "Rachel MaNetha",
     birthday: "25 August",
     job: "Chef",
+    payout: Received,
   },
   {
     birth: "AUG",
@@ -158,6 +179,7 @@ export const birthdays = [
     name: "Pamela Phiri",
     birthday: "29 August",
     job: "Chef",
+    payout: Received,
   },
   {
     birth: "SEPT",
@@ -166,6 +188,7 @@ export const birthdays = [
     name: "Moses Fusi",
     birthday: "30 Sept",
     job: "Teacher",
+    payout: Received,
   },
   {
     birth: "OCT",
@@ -174,6 +197,7 @@ export const birthdays = [
     name: "Patie Sibanda",
     birthday: "24 October",
     job: "Chef",
+    payout: Received,
   },
   {
     birth: "MAY",
@@ -182,6 +206,7 @@ export const birthdays = [
     name: "Sisa Nkala",
     birthday: "18 May",
     job: "Chef",
+    payout: Received,
   },
   {
     birth: "NOV",
@@ -190,6 +215,7 @@ export const birthdays = [
     name: "Mongezi Mpofu",
     birthday: "29 Nov",
     job: "Teacher",
+    payout: Received,
   },
   {
     birth: "DEC",
@@ -198,6 +224,7 @@ export const birthdays = [
     name: "Talayiwa Ngwenya",
     birthday: "6 Dec",
     job: "Chef",
+    payout: Received,
   },
   {
     birth: "JAN",
@@ -206,6 +233,7 @@ export const birthdays = [
     name: "Cleopatra",
     birthday: "18 Jan",
     job: "Chef",
+    payout: Received,
   },
   {
     birth: "MAY",
@@ -214,6 +242,7 @@ export const birthdays = [
     name: "Dingani Mzala",
     birthday: "15 May",
     job: "Professional Driver",
+    payout: Received,
   },
   {
     birth: "APR",
@@ -222,6 +251,7 @@ export const birthdays = [
     name: "Talent Khumalo",
     birthday: "3 April",
     job: "Professional Driver",
+    payout: Received,
   },
   {
     birth: "JAN",
@@ -230,6 +260,7 @@ export const birthdays = [
     name: "Lungile Mamvelase",
     birthday: "4 Jan",
     job: "Hair Dresser",
+    payout: Received,
   },
   {
     birth: "APR",
@@ -238,6 +269,7 @@ export const birthdays = [
     name: "Brian Khabz",
     birthday: "5 April",
     job: "Digital Creator",
+    payout: Received,
   },
   {
     birth: "MAY",
@@ -246,6 +278,7 @@ export const birthdays = [
     name: "Luckness",
     birthday: "11 May",
     job: "Hair Dresser",
+    payout: Received,
   },
   {
     birth: "MAY",
@@ -254,6 +287,7 @@ export const birthdays = [
     name: "Nhlonipho",
     birthday: "28 May",
     job: "Mechanic",
+    payout: Received,
   },
   {
     birth: "JUL",
@@ -262,6 +296,7 @@ export const birthdays = [
     name: "Mqondisi",
     birthday: "27 July",
     job: "Mechanic",
+    payout: Received,
   },
   {
     birth: "OCT",
@@ -270,6 +305,7 @@ export const birthdays = [
     name: "Smah Sibanda",
     birthday: "13 October",
     job: "Mechanic",
+    payout: Received,
   },
   {
     birth: "OCT",
@@ -278,6 +314,7 @@ export const birthdays = [
     name: "Simiso Ncube",
     birthday: "26 October",
     job: "Chef",
+    payout: Received,
   },
   {
     birth: "NOV",
@@ -286,6 +323,7 @@ export const birthdays = [
     name: "Thembani Ndlovu",
     birthday: "26 November",
     job: "Plumber",
+    payout: Received,
   },
   {
     birth: "DEC",
@@ -294,6 +332,7 @@ export const birthdays = [
     name: "Patie Nkiwane",
     birthday: "6 December",
     job: "Chef",
+    payout: Received,
   },
   {
     birth: "OCT",
@@ -302,6 +341,7 @@ export const birthdays = [
     name: "Faith Masoe",
     birthday: "3 October",
     job: "Hair Dresser",
+    payout: Received,
   },
   {
     birth: "DEC",
@@ -310,6 +350,7 @@ export const birthdays = [
     name: "Thuthukani Mpala",
     birthday: "19 December",
     job: "Chef",
+    payout: Received,
   },
   {
     birth: "FEB",
@@ -318,6 +359,7 @@ export const birthdays = [
     name: "Mobby Ndlovu",
     birthday: "19 February",
     job: "Cook",
+    payout: Received,
   },
   {
     birth: "SEPT",
@@ -326,6 +368,7 @@ export const birthdays = [
     name: "Smiso Mambokazi",
     birthday: "18 Sept",
     job: "Cook",
+    payout: Received,
   },
   {
     birth: "MAY",
@@ -334,6 +377,7 @@ export const birthdays = [
     name: "Thenjie Madubazi",
     birthday: "26 May",
     job: "Hair Dresser",
+    payout: Received,
   },
   {
     birth: "JUN",
@@ -342,5 +386,6 @@ export const birthdays = [
     name: "Nomazulu Bhebhe",
     birthday: "26 June",
     job: "Hair Dresser",
+    payout: Received,
   },
 ];
