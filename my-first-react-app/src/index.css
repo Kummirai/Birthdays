@@ -96,8 +96,10 @@ body {
 }
 
 .birthdayCard img {
-  width: 100%;
+  width: 150px;
   height: 150px;
+  margin: 10px;
+  border-radius: 50%;
   object-fit: cover;
   object-position: top center;
   /* box-shadow: 0 0 10px rgba(255, 255, 255, 0.3); */
