@@ -13,7 +13,7 @@ function Birthday(props) {
         <h3>{props.name}</h3>
         <p className="birthday">{props.birthday}</p>
         <p className="jobTitle">
-          <span>Amount Due : </span> {props.job}
+          <span>Due : </span> {props.job}
         </p>
         <p className="birthday">
           <span>Payout : </span> {props.payout}
