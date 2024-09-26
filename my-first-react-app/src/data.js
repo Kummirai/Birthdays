@@ -350,7 +350,7 @@ export const birthdays = [
       "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.6435-9/78644009_148210676588031_8849687896165187584_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=PG6v3ixbXfcQ7kNvgGhSqKy&_nc_ht=scontent-jnb2-1.xx&_nc_gid=Ai0_5eL4DDufvwyVx9I2QEa&oh=00_AYCkZ4MDNeegtPGQ3wp2GiwyzbtzxEt5--rVEJBcL2Atgw&oe=6719F20F",
     name: "Thuthukani Mpala",
     birthday: "19 December",
-    job:notSubscribed,
+    job: notSubscribed,
     payout: notSubscribed,
   },
   {
@@ -386,6 +386,87 @@ export const birthdays = [
       "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/357684170_174105685648278_160391493138029429_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=9OepL_4edioQ7kNvgEgtgOm&_nc_ht=scontent-jnb2-1.xx&_nc_gid=ASViM9WeZhRnMYuvfRUruZC&oh=00_AYBv-xTtzpWIt5HSBpMHXRfDpKw5qU-rnHs0AoEA7tw7ug&oe=66F879A1",
     name: "Nomazulu Bhebhe",
     birthday: "26 June",
+    job: notSubscribed,
+    payout: notSubscribed,
+  },
+  {
+    birth: "JUN",
+    image:
+      "https://images.pexels.com/photos/2613260/pexels-photo-2613260.jpeg?auto=compress&cs=tinysrgb&w=400",
+    name: "Nozwelo",
+    birthday: "June",
+    job: notSubscribed,
+    payout: notSubscribed,
+  },
+  {
+    birth: "JUN",
+    image:
+      "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&w=400",
+    name: "Nomsa Ncube",
+    birthday: "June",
+    job: notSubscribed,
+    payout: notSubscribed,
+  },
+  {
+    birth: "JUN",
+    image:
+      "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=400",
+    name: "Claudius",
+    birthday: "June",
+    job: notSubscribed,
+    payout: notSubscribed,
+  },
+  {
+    birth: "JUN",
+    image:
+      "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=600",
+    name: "Percy",
+    birthday: "June",
+    job: notSubscribed,
+    payout: notSubscribed,
+  },
+  {
+    birth: "JUN",
+    image:
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/235910062_133535732232927_4131167058301119924_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=IyoZPlbm1HsQ7kNvgHiEmu8&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AedLaSoUlM4ek_3D9CjKFdu&oh=00_AYDyS-ENOcYi2bUOWmidFPUpmSDYR5f9cf7EwVrPnm5ifg&oe=66FBA4E0",
+    name: "Sharon Moyo",
+    birthday: "June",
+    job: notSubscribed,
+    payout: notSubscribed,
+  },
+  {
+    birth: "JUN",
+    image:
+      "https://images.pexels.com/photos/1090387/pexels-photo-1090387.jpeg?auto=compress&cs=tinysrgb&w=600",
+    name: "Sphe Ndlela",
+    birthday: "June",
+    job: notSubscribed,
+    payout: notSubscribed,
+  },
+  {
+    birth: "JUN",
+    image:
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/395319526_329829783099170_7858525566134755508_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=XV6e7hMqvzMQ7kNvgHS1Jqo&_nc_ht=scontent-jnb2-1.xx&_nc_gid=Au9jHLrSUlw51lWAfAiw7tm&oh=00_AYDcXCVBfGk6pR9TgjkBU0tXaC4PvUu2d11t0sk3rQLvqw&oe=66FB7E20",
+    name: "Stha Khumalo",
+    birthday: "June",
+    job: notSubscribed,
+    payout: notSubscribed,
+  },
+  {
+    birth: "JUN",
+    image:
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/447620242_1261629068145245_7729968035912914238_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JU6ajLQkiz8Q7kNvgGz_pSN&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCOs7tbRrBHZfcmIK4X34beFTR7sFQvZuhHUT9CIGPQnA&oe=66FB8A28",
+    name: "Zibusiso",
+    birthday: "June",
+    job: notSubscribed,
+    payout: notSubscribed,
+  },
+  {
+    birth: "APR",
+    image:
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/313346205_5431957586914268_964040798558381679_n.jpg?stp=c0.79.720.720a_cp6_dst-jpg_s206x206&_nc_cat=111&ccb=1-7&_nc_sid=714c7a&_nc_ohc=ijcAiip24HIQ7kNvgErwZU2&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A4rG7ul14vqjTB_SBdzR6ZF&oh=00_AYDuoKZCaCV9M3BG8V766-gN1W9NcFVhCnos7z1G47NXOA&oe=66FB9B63",
+    name: "Yvonne Ndlovu",
+    birthday: "25 April",
     job: notSubscribed,
     payout: notSubscribed,
   },
