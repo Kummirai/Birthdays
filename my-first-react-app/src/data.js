@@ -104,7 +104,7 @@ export const birthdays = [
   {
     birth: "MAY",
     image:
-      "https://images.pexels.com/photos/1192609/pexels-photo-1192609.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.6435-9/124153771_369660994349829_7201188310254392357_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=1ogmISrfp1MQ7kNvgE7fEVw&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A8wS4evZVnMwUG589YL9kPj&oh=00_AYBCA0VvOaMbxRhCpLKS8_6Idt4SlFAm_nc7Sfo3a-O1tw&oe=671D38D6",
     name: "Thulani Mahlangu",
     birthday: "17 May",
     job: notSubscribed,
