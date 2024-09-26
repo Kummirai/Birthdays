@@ -50,7 +50,7 @@ body {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   /* background-color: #151419; */
   /* background-color: #fbfbfb; */
-  background-image: url("https://images.pexels.com/photos/796606/pexels-photo-796606.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-image: url("https://images.pexels.com/photos/1000445/pexels-photo-1000445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
@@ -58,7 +58,7 @@ body {
 
 .myHeader {
   grid-column: 1 / -1;
-  border-bottom: 4px solid #878787;
+  border-bottom: 4px solid #f56e0f;
   padding: 10px;
 }
 
@@ -73,7 +73,7 @@ body {
 .myHeader p {
   font-size: 15px;
   font-weight: 400;
-  color: #878787;
+  color: #fbfbfb;
 }
 .card-container {
   display: grid;
@@ -89,11 +89,11 @@ body {
   align-items: center;
   gap: 14px;
   height: fit-content;
-  backdrop-filter: blur(1px) saturate(139%);
-    -webkit-backdrop-filter: blur(1px) saturate(139%);
-    background-color: rgba(255, 255, 255, 0.39);
-    border-radius: 2px;
-    /* border: 1px solid rgba(209, 213, 219, 0.3); */
+  backdrop-filter: blur(25px) saturate(87%);
+  -webkit-backdrop-filter: blur(25px) saturate(87%);
+  background-color: rgba(155, 155, 155, 0);
+  border-radius: 2px;
+  /* border: 1px solid rgba(209, 213, 219, 0.3); */
 }
 
 .birthdayCard img {
@@ -123,7 +123,7 @@ body {
 .jobTitle {
   font-size: 14px;
   font-weight: 100;
-  color: #878787;
+  color: #fbfbfb;
 }
 
 .months {
@@ -142,7 +142,7 @@ body {
   color: #151419;
   border-radius: 3px;
   font-size: 0.7rem;
-  border: 1px solid #1b1b1e;
+  border: 1px solid #fbfbfb;
 }
 
 .months button.active {
@@ -155,7 +155,7 @@ body {
 }
 
 .months .btn:hover {
-  background-color: #1b1b1e;
+  background-color: #f56e0f;
   color: #fbfbfb;
   border: none;
   border-radius: 3px;
