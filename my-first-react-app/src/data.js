@@ -1,5 +1,5 @@
-const payouts = ["Received", "Pending"];
-const [Received, Pending] = payouts;
+const payouts = ["Received", "Pending", "notSubscribed"];
+const [Received, Pending, notSubscribed] = payouts;
 
 export const birthdays = [
   {
@@ -18,7 +18,7 @@ export const birthdays = [
     name: "Freelance Moyo",
     birthday: "23 Jan",
     job: "Data Analyst",
-    payout: Received,
+    payout: notSubscribed,
   },
   {
     birth: "SEPT",
@@ -224,7 +224,7 @@ export const birthdays = [
     name: "Talayiwa Ngwenya",
     birthday: "6 Dec",
     job: "Chef",
-    payout: Received,
+    payout: Pending,
   },
   {
     birth: "JAN",
@@ -278,7 +278,7 @@ export const birthdays = [
     name: "Luckness",
     birthday: "11 May",
     job: "Hair Dresser",
-    payout: Received,
+    payout: "",
   },
   {
     birth: "MAY",
