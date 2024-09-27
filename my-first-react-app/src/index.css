@@ -15,6 +15,10 @@ body {
   position: relative;
 }
 
+#root{
+  min-height: 100vh;
+}
+
 .myHeader {
   grid-column: 1 / -1;
   border-bottom: 4px solid #0b5a57;
@@ -39,7 +43,7 @@ body {
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 10px;
   padding: 10px;
-  height: 100%;
+  margin-bottom: 80px;
 }
 
 .birthdayCard {
