@@ -12,6 +12,13 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
+
+}
+#root{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .myHeader {
@@ -110,4 +117,67 @@ span {
 .months .btn:hover {
   background-color: #032221;
   color: #f1f7f6;
+}
+
+footer {
+  height: 150px;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  width: 100%;
+  margin: 50px 0 20px 0;
+}
+
+footer h3 {
+  color: #f1f7f6;
+  font-size: 20px;
+}
+footer img{
+  width:  32px;
+  height: 32px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+}
+
+footer p {
+  color: #f1f7f6;
+  font-size: 14px;
+}
+
+@media screen and (max-width: 768px) {
+  .card-container {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+  .birthdayCard img {
+    height: 150px;
+  }
+  .birthdayCard h3 {
+    font-size: 14px;
+  }
+  .birthday {
+    font-size: 12px;
+  }
+  .jobTitle {
+    font-size: 12px;
+  }
+  .months .btn {
+    padding: 8px 16px;
+    font-size: 0.6rem;
+  }
+  footer h3 {
+    font-size: 18px;
+  }
+  footer p {
+    font-size: 12px;
+  }
+  footer{
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin: 50px 0 20px 0;
+  }
 }
