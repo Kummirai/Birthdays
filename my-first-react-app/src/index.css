@@ -123,7 +123,8 @@ footer {
   justify-content: space-around;
   align-items: flex-end;
   width: 100%;
-  margin: 50px 0 20px 0;
+  margin: 280px 0 20px 0;
+  display: none;
 }
 
 footer h3 {
@@ -145,12 +146,13 @@ footer p {
 
 @media screen and (max-width: 768px) {
   footer {
+    display: block;
     height: 150px;
     display: flex;
     justify-content: space-around;
     align-items: center;
     flex-direction: column;
     width: 100%;
-    margin: 50px 0 20px 0;
+    margin: 150px 0 20px 0;
   }
 }
