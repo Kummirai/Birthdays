@@ -104,6 +104,7 @@ span {
   color: #151419;
   border-radius: 3px;
   font-size: 0.7rem;
+  border: none;
 }
 
 .months .btn:hover {
