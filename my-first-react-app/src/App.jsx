@@ -117,7 +117,6 @@ const MyApp = () => {
           />
         ))}
       </div>
-      <Footer />
     </>
   );
 };
