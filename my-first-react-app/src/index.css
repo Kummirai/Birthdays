@@ -145,24 +145,6 @@ footer p {
 }
 
 @media screen and (max-width: 768px) {
-  .birthdayCard img {
-    height: 150px;
-  }
-  .birthdayCard h3 {
-    font-size: 16px;
-  }
-  .birthday {
-    font-size: 14px;
-  }
-  .jobTitle {
-    font-size: 14px;
-  }
-  footer h3 {
-    font-size: 18px;
-  }
-  footer p {
-    font-size: 14px;
-  }
   footer {
     height: 150px;
     display: flex;
