@@ -12,9 +12,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
-
 }
-#root{
+#root {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -132,8 +131,8 @@ footer h3 {
   color: #f1f7f6;
   font-size: 20px;
 }
-footer img{
-  width:  32px;
+footer img {
+  width: 32px;
   height: 32px;
   object-fit: cover;
   object-position: center;
@@ -146,9 +145,6 @@ footer p {
 }
 
 @media screen and (max-width: 768px) {
-  .card-container {
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  }
   .birthdayCard img {
     height: 150px;
   }
@@ -171,7 +167,7 @@ footer p {
   footer p {
     font-size: 14px;
   }
-  footer{
+  footer {
     height: 150px;
     display: flex;
     justify-content: space-around;
