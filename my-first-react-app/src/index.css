@@ -153,13 +153,13 @@ footer p {
     height: 150px;
   }
   .birthdayCard h3 {
-    font-size: 14px;
+    font-size: 16px;
   }
   .birthday {
-    font-size: 12px;
+    font-size: 14px;
   }
   .jobTitle {
-    font-size: 12px;
+    font-size: 14px;
   }
   .months .btn {
     padding: 8px 16px;
@@ -169,7 +169,7 @@ footer p {
     font-size: 18px;
   }
   footer p {
-    font-size: 12px;
+    font-size: 14px;
   }
   footer{
     height: 150px;
