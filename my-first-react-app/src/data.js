@@ -41,7 +41,7 @@ export const birthdays = [
   {
     birth: "DEC",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/369675271_203693012689545_3406645001553680626_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=njuTwwsLqhwQ7kNvgHkELT8&_nc_ht=scontent-jnb2-1.xx&oh=00_AYAoG6jLSZFr0NRNkaD0Gu3spe8jpuD-qPm9x0OYpDgc5g&oe=66F85F50",
+      "https://images.pexels.com/photos/5592306/pexels-photo-5592306.jpeg?auto=compress&cs=tinysrgb&w=300",
     name: "Audience Sibanda",
     birthday: "19 Dec",
     job: "R 380",
@@ -239,7 +239,7 @@ export const birthdays = [
   {
     birth: "MAY",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/385705379_228640573528122_3757889377373215983_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=G1bwU6hvJ9cQ7kNvgEKnebe&_nc_ht=scontent-jnb2-1.xx&_nc_gid=As7yYYri0R5j2hBQQgKu7bf&oh=00_AYC9RzxByBnYAImgkTvpqLiuezn01QkdZzhYVDluQ7Mmrw&oe=66F85CB3",
+      "https://images.pexels.com/photos/5592306/pexels-photo-5592306.jpeg?auto=compress&cs=tinysrgb&w=300",
     name: "Dingani Mzala",
     birthday: "15 May",
     job: notSubscribed,
@@ -284,7 +284,7 @@ export const birthdays = [
   {
     birth: "MAY",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/369545420_203690676023112_2544453977980496985_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KCZ3nDjTTIMQ7kNvgGlUxe4&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCzIrgeVGEQhBrcNVIeeFRNSg3d0xeoEU8JR8ps4tE-ZQ&oe=66F85CCE",
+      "https://images.pexels.com/photos/5592306/pexels-photo-5592306.jpeg?auto=compress&cs=tinysrgb&w=300",
     name: "Nhlonipho",
     birthday: "28 May",
     job: notSubscribed,
