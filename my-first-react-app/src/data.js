@@ -95,7 +95,7 @@ export const birthdays = [
   {
     birth: "MAY",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/430112479_122132765612123614_83386428259867008_n.jpg?stp=dst-jpg_s206x206&_nc_cat=110&ccb=1-7&_nc_sid=d0a8c7&_nc_ohc=QxzM6scLyhoQ7kNvgFWV-5O&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCPLcuWi8D7fpC3qWbuWwNz7ol9Rk4dw2JwZaHPPLz6Rw&oe=66F856E5",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/430112479_122132765612123614_83386428259867008_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=oq261-3IORwQ7kNvgEw4VPb&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCLA0WJmZtAhqxYv2VwMUeIafTdoSQ-y08ev763tvMm8w&oe=66FE45A5",
     name: "Senzile Dube",
     birthday: "14 May",
     job: "R 440",
