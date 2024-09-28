@@ -23,7 +23,7 @@ export const birthdays = [
   {
     birth: "SEPT",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/380660399_6620250041403928_7451867255820404137_n.jpg?stp=dst-jpg_s206x206&_nc_cat=107&ccb=1-7&_nc_sid=7a06f5&_nc_ohc=y3QrZ9q4bMAQ7kNvgGOt_b0&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A5I54skKBkho_lTdusUehX_&oh=00_AYAptHkhQCEOsNdyqxRaOJ_kPAS3Nrkorfdx8fzti0_DYQ&oe=66F83304",
+      "https://github.com/Kummirai/Birthdays/blob/main/my-first-react-app/src/assets/Kays.jpeg?raw=true",
     name: "Kayz Dube",
     birthday: "29 Sept",
     job: notSubscribed,
