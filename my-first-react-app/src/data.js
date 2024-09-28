@@ -158,7 +158,7 @@ export const birthdays = [
   {
     birth: "AUG",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/459007982_1690363838201804_4484297271548155209_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=PpYBTc0xwsEQ7kNvgGuT90j&_nc_ht=scontent-jnb2-1.xx&oh=00_AYDrSxD0g61wejRzGajInjWVYj1W_pMuKiFGg3uDQU6-Nw&oe=66F8584C",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/461326957_1678068659705430_2494753679609990368_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=X2PbtJZSKDcQ7kNvgExTzMK&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AFEDHyEYHVzv01Fp0YJaLKJ&oh=00_AYBcj5lAjJXQZM-bA7sNZ6VOtoRYNrMJYCKFqKqfYCKj2w&oe=66FE2245",
     name: "Fifi Masayi",
     birthday: "16 August",
     job: "R 100",
