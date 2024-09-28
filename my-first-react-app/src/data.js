@@ -78,7 +78,7 @@ export const birthdays = [
     birth: "FEB",
     image:
       "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/318758533_3249176942014946_8743894333049547814_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=OuISqD2HA3sQ7kNvgExmd0R&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A4IFuMLb9hOuZwwpoLwxdMh&oh=00_AYDWLOh550GaB8Facf_QYo2hj_loiV0Za5dl-vWrB9M5zw&oe=66FE382A",
-    name: "a Tshuma",
+    name: "Debra Tshuma",
     birthday: "19 Feb",
     job: "R 230",
     payout: Received,
