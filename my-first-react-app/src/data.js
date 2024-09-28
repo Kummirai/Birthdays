@@ -23,7 +23,7 @@ export const birthdays = [
   {
     birth: "SEPT",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/380660399_6620250041403928_7451867255820404137_n.jpg?stp=dst-jpg_s206x206&_nc_cat=107&ccb=1-7&_nc_sid=7a06f5&_nc_ohc=y3QrZ9q4bMAQ7kNvgGOt_b0&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A5I54skKBkho_lTdusUehX_&oh=00_AYAptHkhQCEOsNdyqxRaOJ_kPAS3Nrkorfdx8fzti0_DYQ&oe=66F83304",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/404490180_6837066239722306_1762996161961604964_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=v16DT2X01EIQ7kNvgE7LYXL&_nc_ht=scontent-jnb2-1.xx&oh=00_AYD9unIVfk1R6EkE_T835wgPAjoPmxxV5kF7-OXIm5SfVQ&oe=66FE3107",
     name: "Kayz Dube",
     birthday: "29 Sept",
     job: notSubscribed,
@@ -149,7 +149,7 @@ export const birthdays = [
   {
     birth: "JUL",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/402641058_324707300281052_8736792405816940482_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=8ZmqcETsUkoQ7kNvgG_dqS4&_nc_ht=scontent-jnb2-1.xx&oh=00_AYDfqDtMuErSPTIU1KQVsf6PogAqutH81Wka1CBZvdgVmg&oe=66F828EC",
+      "https://images.pexels.com/photos/5592306/pexels-photo-5592306.jpeg?auto=compress&cs=tinysrgb&w=300",
     name: "Thabani Moyo",
     birthday: "23 July",
     job: "R 280",
@@ -176,7 +176,7 @@ export const birthdays = [
   {
     birth: "AUG",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/407897343_265034006555445_9160922475673875105_n.jpg?stp=c0.106.960.960a_dst-jpg_s206x206&_nc_cat=111&ccb=1-7&_nc_sid=50ad20&_nc_ohc=QjamPELkkDAQ7kNvgFCjnoW&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AcmlDc6OTp7g-FNkQ0VFLxb&oh=00_AYB77rWu8XpbHwnNtP2jkNe8bl9BDzlikklCwiAFz9jrdQ&oe=66F8526F",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/427725317_381910171116349_263624871606214751_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=XNGEoTjCcagQ7kNvgH9S5sM&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCW7rLRWOqII_6Go2c6JFqR3-3avxLBC-mJdhI0JSGhuQ&oe=66FE36B0",
     name: "Pamela Phiri",
     birthday: "29 August",
     job: notSubscribed,
