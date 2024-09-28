@@ -32,7 +32,7 @@ export const birthdays = [
   {
     birth: "MAY",
     image:
-      "https://images.pexels.com/photos/445109/pexels-photo-445109.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.6435-9/71543250_2711345865596080_8547529142936010752_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7b2446&_nc_ohc=OOevDtVW0eoQ7kNvgFCo3rb&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AWVTovLGCOJgn0qSDl0MwMl&oh=00_AYDPv-8B2ax-OsStDfZsbIdEMVZjucGXa7wjBbDKu_K18g&oe=671FC397",
     name: "Sakhile Moyo",
     birthday: "29 May",
     job: "R 400",
