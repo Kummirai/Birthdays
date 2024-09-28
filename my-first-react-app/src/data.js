@@ -14,7 +14,7 @@ export const birthdays = [
   {
     birth: "JAN",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/357701441_174107248981455_3111497278499106377_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=y559ROsVtiYQ7kNvgFOu2R0&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AVIwlbMI7byJ1vTqM6zHjRq&oh=00_AYAB_l_4QPCM3VXviGHZam45rorSpE_dYWDNc9kfMypM9g&oe=66F8912F",
+      "https://github.com/Kummirai/Birthdays/blob/main/my-first-react-app/src/assets/lancy.jpeg?raw=true",
     name: "Freelance Moyo",
     birthday: "23 Jan",
     job: notSubscribed,
@@ -32,7 +32,7 @@ export const birthdays = [
   {
     birth: "MAY",
     image:
-      "https://images.pexels.com/photos/445109/pexels-photo-445109.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://github.com/Kummirai/Birthdays/blob/main/my-first-react-app/src/assets/sakhile.jpeg?raw=true",
     name: "Sakhile Moyo",
     birthday: "29 May",
     job: "R 400",
@@ -41,7 +41,7 @@ export const birthdays = [
   {
     birth: "DEC",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/369675271_203693012689545_3406645001553680626_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=njuTwwsLqhwQ7kNvgHkELT8&_nc_ht=scontent-jnb2-1.xx&oh=00_AYAoG6jLSZFr0NRNkaD0Gu3spe8jpuD-qPm9x0OYpDgc5g&oe=66F85F50",
+      "https://github.com/Kummirai/Birthdays/blob/main/my-first-react-app/src/assets/audience.jpeg?raw=true",
     name: "Audience Sibanda",
     birthday: "19 Dec",
     job: "R 380",
@@ -50,7 +50,7 @@ export const birthdays = [
   {
     birth: "APR",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/385749298_228640700194776_4305483988846488504_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=AAsn5wyPs3oQ7kNvgGcNHwK&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A34e6UbScnSsLRo7P3la4_N&oh=00_AYAdAsMCnv7U0P6mptlYuUTk48JhgZPEVbRS1DvxW3Oxjg&oe=66F856FD",
+      "https://github.com/Kummirai/Birthdays/blob/main/my-first-react-app/src/assets/kk.jpeg?raw=true",
     name: "Khulekani Khumalo",
     birthday: "23 April",
     job: "R 320",
@@ -59,7 +59,7 @@ export const birthdays = [
   {
     birth: "JAN",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/340743402_635503055075677_9012774665059974543_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_ohc=sPZvw6gngLUQ7kNvgGeBBVI&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A81_PtJrz6NV1e_jXRMMQtD&oh=00_AYCxcCFK6e7wZeyQTXGkFtNUV-Mf_Fi9M89GT8wsOHXeRw&oe=66F84F85",
+      "https://github.com/Kummirai/Birthdays/blob/main/my-first-react-app/src/assets/mzie.jpg?raw=true",
     name: "Mzingaye Ndebele",
     birthday: "5 Jan",
     job: "R 400",
@@ -95,7 +95,7 @@ export const birthdays = [
   {
     birth: "MAY",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/430112479_122132765612123614_83386428259867008_n.jpg?stp=dst-jpg_s206x206&_nc_cat=110&ccb=1-7&_nc_sid=d0a8c7&_nc_ohc=QxzM6scLyhoQ7kNvgFWV-5O&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCPLcuWi8D7fpC3qWbuWwNz7ol9Rk4dw2JwZaHPPLz6Rw&oe=66F856E5",
+      "https://github.com/Kummirai/Birthdays/blob/main/my-first-react-app/src/assets/senzile.jpeg?raw=true",
     name: "Senzile Dube",
     birthday: "14 May",
     job: "R 440",
@@ -194,7 +194,7 @@ export const birthdays = [
   {
     birth: "OCT",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/245527788_568813674368601_7716348227149492240_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=TK_Lu5aguIsQ7kNvgFS4k0a&_nc_ht=scontent-jnb2-1.xx&oh=00_AYDFqphpdjOr0qpsDwUk4t1tji2j1dnlCxIOxCbaDSuS0A&oe=66F82756",
+      "https://github.com/Kummirai/Birthdays/blob/main/my-first-react-app/src/assets/lulu.jpeg?raw=true",
     name: "Patie Sibanda",
     birthday: "24 October",
     job: "R 440",
@@ -212,7 +212,7 @@ export const birthdays = [
   {
     birth: "NOV",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/369532924_203690862689760_1613193417178438092_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=X5XbGpNHIyYQ7kNvgEUjDvD&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCXV6mAQFAq_tl0kB99D5kRKXWyruxyyKGFgNAMnjJAhA&oe=66F850CC",
+      "https://github.com/Kummirai/Birthdays/blob/main/my-first-react-app/src/assets/mongezi.jpeg?raw=true",
     name: "Mongezi Mpofu",
     birthday: "29 Nov",
     job: "R 260",
