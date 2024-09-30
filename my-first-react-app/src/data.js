@@ -21,6 +21,24 @@ export const birthdays = [
     payout: notSubscribed,
   },
   {
+    birth: "FEB",
+    image:
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/345592398_528440716012513_4836317305485648974_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=mLEqn8OmSVwQ7kNvgF_EybS&_nc_ht=scontent-jnb2-1.xx&oh=00_AYChikPpv_2eM9FOroZUqnXr88V2TzAGU6IZp-ARoElGkw&oe=66FE22E7",
+    name: "Mobby Ndlovu",
+    birthday: "19 Feb",
+    job: notSubscribed,
+    payout: notSubscribed,
+  },
+  {
+    birth: "OCT",
+    image:
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/337275656_1147635109254061_3911228119345102921_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=JjsH1E0XDS0Q7kNvgGL1aap&_nc_ht=scontent-jnb2-1.xx&_nc_gid=ASYhuvzKXbTVhPV0fWwbJuc&oh=00_AYAeLcyNtwKVYwvdHBJE7b9eJCVMlsRhtTFvcbrFYONlFQ&oe=66FE2BC8",
+    name: "Smah Sibanda",
+    birthday: "13 October",
+    job: "notSubscribed",
+    payout: notSubscribed,
+  },
+  {
     birth: "JUN",
     image:
       "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/447620242_1261629068145245_7729968035912914238_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JU6ajLQkiz8Q7kNvgGz_pSN&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCOs7tbRrBHZfcmIK4X34beFTR7sFQvZuhHUT9CIGPQnA&oe=66FB8A28",
@@ -311,15 +329,6 @@ export const birthdays = [
   {
     birth: "OCT",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/337275656_1147635109254061_3911228119345102921_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=JjsH1E0XDS0Q7kNvgGL1aap&_nc_ht=scontent-jnb2-1.xx&_nc_gid=ASYhuvzKXbTVhPV0fWwbJuc&oh=00_AYAeLcyNtwKVYwvdHBJE7b9eJCVMlsRhtTFvcbrFYONlFQ&oe=66FE2BC8",
-    name: "Smah Sibanda",
-    birthday: "13 October",
-    job: "notSubscribed",
-    payout: notSubscribed,
-  },
-  {
-    birth: "OCT",
-    image:
       "https://images.pexels.com/photos/3060659/pexels-photo-3060659.jpeg?auto=compress&cs=tinysrgb&w=600",
     name: "Simiso Ncube",
     birthday: "26 October",
@@ -359,15 +368,6 @@ export const birthdays = [
       "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.6435-9/78644009_148210676588031_8849687896165187584_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=PG6v3ixbXfcQ7kNvgGhSqKy&_nc_ht=scontent-jnb2-1.xx&_nc_gid=Ai0_5eL4DDufvwyVx9I2QEa&oh=00_AYCkZ4MDNeegtPGQ3wp2GiwyzbtzxEt5--rVEJBcL2Atgw&oe=6719F20F",
     name: "Thuthukani Mpala",
     birthday: "19 December",
-    job: notSubscribed,
-    payout: notSubscribed,
-  },
-  {
-    birth: "FEB",
-    image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/345592398_528440716012513_4836317305485648974_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=mLEqn8OmSVwQ7kNvgF_EybS&_nc_ht=scontent-jnb2-1.xx&oh=00_AYChikPpv_2eM9FOroZUqnXr88V2TzAGU6IZp-ARoElGkw&oe=66FE22E7",
-    name: "Mobby Ndlovu",
-    birthday: "19 Feb",
     job: notSubscribed,
     payout: notSubscribed,
   },
