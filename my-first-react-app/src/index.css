@@ -113,9 +113,13 @@ span {
   border: none;
 }
 
-.months .btn.active{
+.months .btn.active {
   background-color: #032221;
   color: #f1f7f6;
+  padding: 9px 18px;
+  border-radius: 3px;
+  font-size: 0.7rem;
+  border: none;
 }
 
 .months .btn:hover {

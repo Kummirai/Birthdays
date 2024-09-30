@@ -12,20 +12,47 @@ export const birthdays = [
     payout: Pending,
   },
   {
-    birth: "JAN",
-    image:
-      "https://images.pexels.com/photos/871495/pexels-photo-871495.jpeg?auto=compress&cs=tinysrgb&w=600",
-    name: "Freelance Moyo",
-    birthday: "23 Jan",
-    job: notSubscribed,
-    payout: notSubscribed,
-  },
-  {
     birth: "SEPT",
     image:
       "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/404490180_6837066239722306_1762996161961604964_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=v16DT2X01EIQ7kNvgE7LYXL&_nc_ht=scontent-jnb2-1.xx&oh=00_AYD9unIVfk1R6EkE_T835wgPAjoPmxxV5kF7-OXIm5SfVQ&oe=66FE3107",
     name: "Kayz Dube",
     birthday: "29 Sept",
+    job: notSubscribed,
+    payout: notSubscribed,
+  },
+  {
+    birth: "JUN",
+    image:
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/447620242_1261629068145245_7729968035912914238_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JU6ajLQkiz8Q7kNvgGz_pSN&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCOs7tbRrBHZfcmIK4X34beFTR7sFQvZuhHUT9CIGPQnA&oe=66FB8A28",
+    name: "Zibusiso",
+    birthday: "June",
+    job: notSubscribed,
+    payout: notSubscribed,
+  },
+  {
+    birth: "AUG",
+    image:
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/461326957_1678068659705430_2494753679609990368_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=X2PbtJZSKDcQ7kNvgExTzMK&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AFEDHyEYHVzv01Fp0YJaLKJ&oh=00_AYBcj5lAjJXQZM-bA7sNZ6VOtoRYNrMJYCKFqKqfYCKj2w&oe=66FE2245",
+    name: "Fifi Masayi",
+    birthday: "16 August",
+    job: "R 100",
+    payout: Received,
+  },
+  {
+    birth: "JUL",
+    image:
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/449783164_7430234567099542_4572840874129830452_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4DPbuDFVUbcQ7kNvgHVQAsa&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AWX88gRhqxiGLD9g5Dq6PGf&oh=00_AYChHp399MPdo-CaBShryCAvI4sfyytSryMuivOkVz8xcQ&oe=66FE2DD4",
+    name: "Gracious Mguni",
+    birthday: "4July",
+    job: "R 280",
+    payout: Received,
+  },
+  {
+    birth: "JAN",
+    image:
+      "https://images.pexels.com/photos/871495/pexels-photo-871495.jpeg?auto=compress&cs=tinysrgb&w=600",
+    name: "Freelance Moyo",
+    birthday: "23 Jan",
     job: notSubscribed,
     payout: notSubscribed,
   },
@@ -140,28 +167,10 @@ export const birthdays = [
   {
     birth: "JUL",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/449783164_7430234567099542_4572840874129830452_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4DPbuDFVUbcQ7kNvgHVQAsa&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AWX88gRhqxiGLD9g5Dq6PGf&oh=00_AYChHp399MPdo-CaBShryCAvI4sfyytSryMuivOkVz8xcQ&oe=66FE2DD4",
-    name: "Gracious Mguni",
-    birthday: "4July",
-    job: "R 280",
-    payout: Received,
-  },
-  {
-    birth: "JUL",
-    image:
       "https://images.pexels.com/photos/5592306/pexels-photo-5592306.jpeg?auto=compress&cs=tinysrgb&w=300",
     name: "Thabani Moyo",
     birthday: "23 July",
     job: "R 280",
-    payout: Received,
-  },
-  {
-    birth: "AUG",
-    image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/461326957_1678068659705430_2494753679609990368_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=X2PbtJZSKDcQ7kNvgExTzMK&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AFEDHyEYHVzv01Fp0YJaLKJ&oh=00_AYBcj5lAjJXQZM-bA7sNZ6VOtoRYNrMJYCKFqKqfYCKj2w&oe=66FE2245",
-    name: "Fifi Masayi",
-    birthday: "16 August",
-    job: "R 100",
     payout: Received,
   },
   {
@@ -457,15 +466,6 @@ export const birthdays = [
     image:
       "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/395319526_329829783099170_7858525566134755508_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=XV6e7hMqvzMQ7kNvgHS1Jqo&_nc_ht=scontent-jnb2-1.xx&_nc_gid=Au9jHLrSUlw51lWAfAiw7tm&oh=00_AYDcXCVBfGk6pR9TgjkBU0tXaC4PvUu2d11t0sk3rQLvqw&oe=66FB7E20",
     name: "Stha Khumalo",
-    birthday: "June",
-    job: notSubscribed,
-    payout: notSubscribed,
-  },
-  {
-    birth: "JUN",
-    image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/447620242_1261629068145245_7729968035912914238_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JU6ajLQkiz8Q7kNvgGz_pSN&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCOs7tbRrBHZfcmIK4X34beFTR7sFQvZuhHUT9CIGPQnA&oe=66FB8A28",
-    name: "Zibusiso",
     birthday: "June",
     job: notSubscribed,
     payout: notSubscribed,
