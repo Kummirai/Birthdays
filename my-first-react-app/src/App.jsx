@@ -4,7 +4,6 @@ import Header from "./components/Header.jsx";
 import Button from "./components/Button.jsx";
 import PropTypes from "prop-types";
 import { useState } from "react";
-import Footer from "./components/Footer.jsx";
 
 function Birthday(props) {
   return (

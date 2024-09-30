@@ -14,7 +14,7 @@ export const birthdays = [
   {
     birth: "JAN",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/357701441_174107248981455_3111497278499106377_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=y559ROsVtiYQ7kNvgFOu2R0&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AVIwlbMI7byJ1vTqM6zHjRq&oh=00_AYAB_l_4QPCM3VXviGHZam45rorSpE_dYWDNc9kfMypM9g&oe=66F8912F",
+      "https://images.pexels.com/photos/871495/pexels-photo-871495.jpeg?auto=compress&cs=tinysrgb&w=600",
     name: "Freelance Moyo",
     birthday: "23 Jan",
     job: notSubscribed,
@@ -248,7 +248,7 @@ export const birthdays = [
   {
     birth: "APR",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/407487263_265027076556138_3950022296222365989_n.jpg?stp=c0.106.960.960a_dst-jpg_s206x206&_nc_cat=108&ccb=1-7&_nc_sid=50ad20&_nc_ohc=vuOuKPRiNAwQ7kNvgGvb7or&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AlY0nHhFdp0vh2EwjcF6p7T&oh=00_AYD1U13WXBkyq12PrpVSZrrGK2Ze7SNHL1M0qnqbxRqb0w&oe=66F857FE",
+      "https://images.pexels.com/photos/428333/pexels-photo-428333.jpeg?auto=compress&cs=tinysrgb&w=600",
     name: "Talent Khumalo",
     birthday: "3 April",
     job: notSubscribed,
@@ -311,7 +311,7 @@ export const birthdays = [
   {
     birth: "OCT",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/289636800_102380152534901_1826825140103341355_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=TPy2V-KNMrIQ7kNvgHBMhKN&_nc_ht=scontent-jnb2-1.xx&oh=00_AYAmKc3iU4XKGFK023dGZ-ddt3SViaH09TkGvk97TCywfQ&oe=66F8C723",
+      "https://images.pexels.com/photos/3060659/pexels-photo-3060659.jpeg?auto=compress&cs=tinysrgb&w=600",
     name: "Simiso Ncube",
     birthday: "26 October",
     job: notSubscribed,
@@ -383,7 +383,7 @@ export const birthdays = [
   {
     birth: "JUN",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/357684170_174105685648278_160391493138029429_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=9OepL_4edioQ7kNvgEgtgOm&_nc_ht=scontent-jnb2-1.xx&_nc_gid=ASViM9WeZhRnMYuvfRUruZC&oh=00_AYBv-xTtzpWIt5HSBpMHXRfDpKw5qU-rnHs0AoEA7tw7ug&oe=66F879A1",
+      "https://images.pexels.com/photos/6707031/pexels-photo-6707031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     name: "Nomazulu Bhebhe",
     birthday: "26 June",
     job: notSubscribed,

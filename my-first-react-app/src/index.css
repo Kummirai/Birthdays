@@ -113,6 +113,11 @@ span {
   border: none;
 }
 
+.months .btn.active{
+  background-color: #032221;
+  color: #f1f7f6;
+}
+
 .months .btn:hover {
   background-color: #032221;
   color: #f1f7f6;
