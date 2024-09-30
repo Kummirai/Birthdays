@@ -13,6 +13,7 @@ body {
   /* background-color: rgb(2, 27, 26); */
   background-image: url("https://img.freepik.com/free-vector/luxury-gradient-abstract-modern-green-dark-background-3d-wave_343694-3067.jpg?t=st=1727541680~exp=1727545280~hmac=4c65a418ab28399e0e206673846d8cda64357649ee891bdbb63467f9ec62de8c&w=1060");
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: cover;
   min-height: 100vh;
   position: relative;
