@@ -170,7 +170,7 @@ export const birthdays = [
       "https://images.pexels.com/photos/2896428/pexels-photo-2896428.jpeg?auto=compress&cs=tinysrgb&w=400",
     name: "Thobekile",
     birthday: "18 May",
-    job: "R 100",
+    job: "R 40",
     payout: Received,
   },
   {
