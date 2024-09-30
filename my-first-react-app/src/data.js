@@ -61,7 +61,7 @@ export const birthdays = [
     image:
       "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/449783164_7430234567099542_4572840874129830452_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4DPbuDFVUbcQ7kNvgHVQAsa&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AWX88gRhqxiGLD9g5Dq6PGf&oh=00_AYChHp399MPdo-CaBShryCAvI4sfyytSryMuivOkVz8xcQ&oe=66FE2DD4",
     name: "Gracious Mguni",
-    birthday: "4July",
+    birthday: "4 July",
     job: "R 280",
     payout: Received,
   },
