@@ -66,6 +66,15 @@ export const birthdays = [
     payout: Received,
   },
   {
+    birth: "SEPT",
+    image:
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/417872074_2278035715735274_872960097053354170_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=iZ440NDjengQ7kNvgHRo6ES&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A3TX9mg6_tOWW4wRFyW0e0A&oh=00_AYDowHqxvUXsNeQTthgP9rBqQKwabA0DW08Q80C81okn2g&oe=66FD842E",
+    name: "Naboth Sibanda",
+    birthday: "28 September",
+    job: notSubscribed,
+    payout: notSubscribed,
+  },
+  {
     birth: "JAN",
     image:
       "https://images.pexels.com/photos/871495/pexels-photo-871495.jpeg?auto=compress&cs=tinysrgb&w=600",
@@ -443,15 +452,7 @@ export const birthdays = [
     job: notSubscribed,
     payout: notSubscribed,
   },
-  {
-    birth: "SEPT",
-    image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/417872074_2278035715735274_872960097053354170_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=iZ440NDjengQ7kNvgHRo6ES&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A3TX9mg6_tOWW4wRFyW0e0A&oh=00_AYDowHqxvUXsNeQTthgP9rBqQKwabA0DW08Q80C81okn2g&oe=66FD842E",
-    name: "Naboth Sibanda",
-    birthday: "28 September",
-    job: notSubscribed,
-    payout: notSubscribed,
-  },
+
   {
     birth: "JUN",
     image:
