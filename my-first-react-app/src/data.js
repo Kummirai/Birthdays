@@ -43,7 +43,7 @@ export const birthdays = [
     image:
       "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/447620242_1261629068145245_7729968035912914238_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JU6ajLQkiz8Q7kNvgGz_pSN&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCOs7tbRrBHZfcmIK4X34beFTR7sFQvZuhHUT9CIGPQnA&oe=66FB8A28",
     name: "Zibusiso",
-    birthday: "June",
+    birthday: "2024",
     job: notSubscribed,
     payout: notSubscribed,
   },
@@ -403,7 +403,7 @@ export const birthdays = [
     image:
       "https://images.pexels.com/photos/6707031/pexels-photo-6707031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     name: "Nomazulu Bhebhe",
-    birthday: "26 June",
+    birthday: "2024",
     job: notSubscribed,
     payout: notSubscribed,
   },
@@ -412,7 +412,7 @@ export const birthdays = [
     image:
       "https://images.pexels.com/photos/2613260/pexels-photo-2613260.jpeg?auto=compress&cs=tinysrgb&w=400",
     name: "Nozwelo",
-    birthday: "June",
+    birthday: "2024",
     job: notSubscribed,
     payout: notSubscribed,
   },
@@ -421,7 +421,7 @@ export const birthdays = [
     image:
       "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&w=400",
     name: "Nomsa Ncube",
-    birthday: "June",
+    birthday:"2024",
     job: notSubscribed,
     payout: notSubscribed,
   },
@@ -430,7 +430,7 @@ export const birthdays = [
     image:
       "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=400",
     name: "Claudius",
-    birthday: "June",
+    birthday: "2024",
     job: notSubscribed,
     payout: notSubscribed,
   },
@@ -439,7 +439,7 @@ export const birthdays = [
     image:
       "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=600",
     name: "Percy",
-    birthday: "June",
+    birthday: "2024",
     job: notSubscribed,
     payout: notSubscribed,
   },
@@ -458,7 +458,7 @@ export const birthdays = [
     image:
       "https://images.pexels.com/photos/1090387/pexels-photo-1090387.jpeg?auto=compress&cs=tinysrgb&w=600",
     name: "Sphe Ndlela",
-    birthday: "June",
+    birthday: "2024",
     job: notSubscribed,
     payout: notSubscribed,
   },
@@ -467,7 +467,7 @@ export const birthdays = [
     image:
       "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/395319526_329829783099170_7858525566134755508_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=XV6e7hMqvzMQ7kNvgHS1Jqo&_nc_ht=scontent-jnb2-1.xx&_nc_gid=Au9jHLrSUlw51lWAfAiw7tm&oh=00_AYDcXCVBfGk6pR9TgjkBU0tXaC4PvUu2d11t0sk3rQLvqw&oe=66FB7E20",
     name: "Stha Khumalo",
-    birthday: "June",
+    birthday: "2024",
     job: notSubscribed,
     payout: notSubscribed,
   },
