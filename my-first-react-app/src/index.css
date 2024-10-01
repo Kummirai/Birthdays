@@ -127,7 +127,7 @@ span {
 }
 
 .months .btn:hover {
-  background-color: var(--primary-color);
+  background-color: var(--secondary-color);
   color: var(--quinary-color);
 }
 
