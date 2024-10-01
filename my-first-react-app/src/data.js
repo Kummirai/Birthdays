@@ -463,11 +463,11 @@ export const birthdays = [
     payout: notSubscribed,
   },
   {
-    birth: "JUN",
+    birth: "JAN",
     image:
       "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/395319526_329829783099170_7858525566134755508_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=XV6e7hMqvzMQ7kNvgHS1Jqo&_nc_ht=scontent-jnb2-1.xx&_nc_gid=Au9jHLrSUlw51lWAfAiw7tm&oh=00_AYDcXCVBfGk6pR9TgjkBU0tXaC4PvUu2d11t0sk3rQLvqw&oe=66FB7E20",
     name: "Stha Khumalo",
-    birthday: "2024",
+    birthday: "10 January",
     job: notSubscribed,
     payout: notSubscribed,
   },
