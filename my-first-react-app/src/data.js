@@ -139,7 +139,7 @@ export const birthdays = [
       "nosisa.jpg",
     name: "Nosisa Tshuma",
     birthday: "22 March",
-    job: "R 180",
+    job: "R 0",
     payout: Received,
   },
   {
