@@ -68,7 +68,7 @@ body {
   width: 100%;
   height: 150px;
   object-fit: cover;
-  object-position: top center;
+  object-position: center top;
   backdrop-filter: blur(20px);
 }
 
