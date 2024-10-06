@@ -4,7 +4,7 @@ const [Received, Pending, notSubscribed] = payouts;
 export const birthdays = [
   {
     birth: "SEPT",
-    image: "./src/assets/milton.jpg",
+    image: "milton.jpg",
     name: "Milton Kumirai",
     birthday: "18 Sept",
     job: "R 100",
@@ -65,7 +65,7 @@ export const birthdays = [
   },
   {
     birth: "SEPT",
-    image: "./src/assets/naboth.jpg",
+    image: "naboth.jpg",
     name: "Naboth Sibanda",
     birthday: "28 September",
     job: notSubscribed,
@@ -216,7 +216,7 @@ export const birthdays = [
   },
   {
     birth: "SEPT",
-    image: "./src/assets/mosesFusi.jpg",
+    image: "mosesFusi.jpg",
     name: "Moses Fusi",
     birthday: "30 Sept",
     job: "R 200",
@@ -377,7 +377,7 @@ export const birthdays = [
   },
   {
     birth: "SEPT",
-    image: "./src/assets/twin.jpg",
+    image: "twin.jpg",
     name: "Smiso Mambokazi",
     birthday: "18 Sept",
     job: notSubscribed,
@@ -439,7 +439,7 @@ export const birthdays = [
   },
   {
     birth: "SEPT",
-    image: "./src/assets/sharon.jpg",
+    image: "sharon.jpg",
     name: "Sharon Moyo",
     birthday: "28 September",
     job: notSubscribed,
