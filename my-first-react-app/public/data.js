@@ -4,7 +4,8 @@ const [Received, Pending, notSubscribed] = payouts;
 export const birthdays = [
   {
     birth: "SEPT",
-    image: "./src/assets/milton.jpg",
+    image:
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.6435-9/183450222_4054724281251845_2634091800033727112_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=2cTmvRRPW6EQ7kNvgHiabWM&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AqzfPutvtLE6KCGhCq43oSo&oh=00_AYBcxuWvZVUEhYLpaQbCufLKm098zrm3HC7mKylJHaw1_g&oe=6719EDFC",
     name: "Milton Kumirai",
     birthday: "18 Sept",
     job: "R 100",
@@ -12,7 +13,8 @@ export const birthdays = [
   },
   {
     birth: "SEPT",
-    image: "./src/assets/Kays.jpeg",
+    image:
+      "./assets/Kays.jpeg",
     name: "Kayz Dube",
     birthday: "29 Sept",
     job: notSubscribed,
@@ -65,7 +67,8 @@ export const birthdays = [
   },
   {
     birth: "SEPT",
-    image: "./src/assets/naboth.jpg",
+    image:
+      "./src/assets/naboth.jpg",
     name: "Naboth Sibanda",
     birthday: "28 September",
     job: notSubscribed,
@@ -91,7 +94,8 @@ export const birthdays = [
   },
   {
     birth: "DEC",
-    image: "./src/assets/audience.jpeg",
+    image:
+      "./src/assets/audience.jpeg",
     name: "Audience Sibanda",
     birthday: "19 Dec",
     job: "R 380",
@@ -216,7 +220,8 @@ export const birthdays = [
   },
   {
     birth: "SEPT",
-    image: "./src/assets/mosesFusi.jpg",
+    image:
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.6435-9/170048147_2955928064683719_6423659088146893448_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=IRtDysI-5E8Q7kNvgEKcQBf&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AdtzF3ctEQbeuoRS9AbN2BH&oh=00_AYAFbgI3xvf2YmaQ_-bIKkNEVRB6f3XVtL6dXwyZqx-wvQ&oe=6719F3F1",
     name: "Moses Fusi",
     birthday: "30 Sept",
     job: "R 200",
@@ -377,7 +382,8 @@ export const birthdays = [
   },
   {
     birth: "SEPT",
-    image: "./src/assets/twin.jpg",
+    image:
+      "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.6435-9/131919487_213921556929850_7965050368452013396_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=kbIwCCgHcesQ7kNvgHWdL0A&_nc_ht=scontent-jnb2-1.xx&oh=00_AYA_Tpl5gGALlyP_BFEmgDwAHiMiMh1WjtBTNzywObTo9A&oe=6719F9A9",
     name: "Smiso Mambokazi",
     birthday: "18 Sept",
     job: notSubscribed,
@@ -415,7 +421,7 @@ export const birthdays = [
     image:
       "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&w=400",
     name: "Nomsa Ncube",
-    birthday: "2024",
+    birthday:"2024",
     job: notSubscribed,
     payout: notSubscribed,
   },
@@ -439,7 +445,8 @@ export const birthdays = [
   },
   {
     birth: "SEPT",
-    image: "./src/assets/sharon.jpg",
+    image:
+      "./src/assets/sharon.jpg",
     name: "Sharon Moyo",
     birthday: "28 September",
     job: notSubscribed,
