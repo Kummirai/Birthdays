@@ -14,7 +14,7 @@ export const birthdays = [
   {
     birth: "SEPT",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/404490180_6837066239722306_1762996161961604964_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=v16DT2X01EIQ7kNvgE7LYXL&_nc_ht=scontent-jnb2-1.xx&oh=00_AYD9unIVfk1R6EkE_T835wgPAjoPmxxV5kF7-OXIm5SfVQ&oe=66FE3107",
+      "./src/assets/Kays.jpeg",
     name: "Kayz Dube",
     birthday: "29 Sept",
     job: notSubscribed,
@@ -68,7 +68,7 @@ export const birthdays = [
   {
     birth: "SEPT",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/417872074_2278035715735274_872960097053354170_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=iZ440NDjengQ7kNvgHRo6ES&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A3TX9mg6_tOWW4wRFyW0e0A&oh=00_AYDowHqxvUXsNeQTthgP9rBqQKwabA0DW08Q80C81okn2g&oe=66FD842E",
+      "./src/assets/naboth.jpg",
     name: "Naboth Sibanda",
     birthday: "28 September",
     job: notSubscribed,
@@ -95,7 +95,7 @@ export const birthdays = [
   {
     birth: "DEC",
     image:
-      "https://images.pexels.com/photos/5592306/pexels-photo-5592306.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "./src/assets/audience.jpeg",
     name: "Audience Sibanda",
     birthday: "19 Dec",
     job: "R 380",
@@ -446,7 +446,7 @@ export const birthdays = [
   {
     birth: "SEPT",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/235910062_133535732232927_4131167058301119924_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=IyoZPlbm1HsQ7kNvgHiEmu8&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AedLaSoUlM4ek_3D9CjKFdu&oh=00_AYDyS-ENOcYi2bUOWmidFPUpmSDYR5f9cf7EwVrPnm5ifg&oe=66FBA4E0",
+      "./src/assets/sharon.jpg",
     name: "Sharon Moyo",
     birthday: "28 September",
     job: notSubscribed,
