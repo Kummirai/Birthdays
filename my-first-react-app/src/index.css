@@ -42,7 +42,7 @@ body {
 .myHeader p {
   font-size: 15px;
   font-weight: 400;
-  color: var(--primary-color);
+  color: var(--fourth-color);
 }
 .card-container {
   display: grid;
