@@ -12,7 +12,7 @@ export const birthdays = [
   },
   {
     birth: "SEPT",
-    image: "./src/assets/Kays.jpeg",
+    image: "./public/Kays.jpeg",
     name: "Kayz Dube",
     birthday: "29 Sept",
     job: notSubscribed,
