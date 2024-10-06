@@ -83,7 +83,7 @@ export const birthdays = [
   {
     birth: "MAY",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.6435-9/71543250_2711345865596080_8547529142936010752_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7b2446&_nc_ohc=OOevDtVW0eoQ7kNvgFCo3rb&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AWVTovLGCOJgn0qSDl0MwMl&oh=00_AYDPv-8B2ax-OsStDfZsbIdEMVZjucGXa7wjBbDKu_K18g&oe=671FC397",
+      "sakj.jpeg",
     name: "Sakhile Moyo",
     birthday: "29 May",
     job: "R 400",
@@ -208,7 +208,7 @@ export const birthdays = [
   {
     birth: "AUG",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/427725317_381910171116349_263624871606214751_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=XNGEoTjCcagQ7kNvgH9S5sM&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCW7rLRWOqII_6Go2c6JFqR3-3avxLBC-mJdhI0JSGhuQ&oe=66FE36B0",
+      "pamela.jpeg",
     name: "Pamela Phiri",
     birthday: "29 August",
     job: notSubscribed,
@@ -225,7 +225,7 @@ export const birthdays = [
   {
     birth: "OCT",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/245527788_568813674368601_7716348227149492240_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=WWZ6yPMvSq8Q7kNvgHQJUcT&_nc_ht=scontent-jnb2-1.xx&oh=00_AYAOCozLICtDChtRt5RvmTumxjTjkn4xLz6E0i9ephA_rg&oe=66FE1616",
+      "lulu.jpeg",
     name: "Patie Sibanda",
     birthday: "24 October",
     job: "R 440",
@@ -243,7 +243,7 @@ export const birthdays = [
   {
     birth: "NOV",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/403726462_352386567338470_2832949745564559296_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0UCaJr11ZlAQ7kNvgEy8pSJ&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AVaANaZ0tWAiJO6cuKN9M3U&oh=00_AYBJDMmMvsWJt7AW5qPhHMSOyVVFGGw5y2XPs_CvcuLxqQ&oe=66FE41A1",
+      "mongezi.jpeg",
     name: "Mongezi Mpofu",
     birthday: "29 Nov",
     job: "R 260",
@@ -279,7 +279,7 @@ export const birthdays = [
   {
     birth: "APR",
     image:
-      "https://images.pexels.com/photos/428333/pexels-photo-428333.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "tk.jpeg",
     name: "Talent Khumalo",
     birthday: "3 April",
     job: notSubscribed,
