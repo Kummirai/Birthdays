@@ -109,7 +109,7 @@ export const birthdays = [
   {
     birth: "JAN",
     image:
-      "https://images.pexels.com/photos/5592306/pexels-photo-5592306.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "mzie.jpeg",
     name: "Mzingaye Ndebele",
     birthday: "5 Jan",
     job: "R 400",
@@ -145,7 +145,7 @@ export const birthdays = [
   {
     birth: "MAY",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/430112479_122132765612123614_83386428259867008_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=oq261-3IORwQ7kNvgEw4VPb&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCLA0WJmZtAhqxYv2VwMUeIafTdoSQ-y08ev763tvMm8w&oe=66FE45A5",
+      "senzile.jpeg",
     name: "Senzile Dube",
     birthday: "14 May",
     job: "R 440",
