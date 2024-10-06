@@ -1,9 +1,9 @@
 :root{
-  --primary-color: #171717;
-  --secondary-color: #96543a;
+  --primary-color: #432344;
+  --secondary-color: #ffc03d;
   --tertiary-color: #ba7c63;
-  --quaternary-color: 0 0 10px rgba(0, 0, 0, 0.2);
-  --quinary-color: #ffffff;
+  --quaternary-color: #ffc03d;
+  --quinary-color: #e7eefb;
 }
 
 * {
@@ -43,8 +43,7 @@ body {
 .myHeader p {
   font-size: 15px;
   font-weight: 400;
-  color: var(-
-  --primary-color);
+  color: var(--primary-color);
 }
 .card-container {
   display: grid;
@@ -55,6 +54,7 @@ body {
 }
 
 .birthdayCard {
+background-color: white;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
@@ -81,7 +81,8 @@ body {
 }
 
 .birthday {
-  color: var(--secondary-color);
+  /* color: var(--primary-color); */
+  color: #5a6e94 ;
   font-size: 14px;
   margin: 3px 0;
 }
@@ -89,7 +90,7 @@ body {
 .jobTitle {
   font-size: 14px;
   font-weight: 100;
-  color: var(--secondary-color);
+  color: #5a6e94;
 }
 
 span {
@@ -109,8 +110,9 @@ span {
 
 .months .btn {
   padding: 9px 18px;
-  background-color: var(--quinary-color);
-  color: var(--secondary-color);
+  /* background-color: var(--quinary-color); */
+  background-color: white;
+  color: #432344;
   border-radius: 3px;
   font-size: 0.7rem;
   border: none;
@@ -119,7 +121,7 @@ span {
 
 .months .btn.active {
   background-color: var(--quaternary-color);
-  color: var(--tertiary-color);
+  color: #432344;
   padding: 9px 18px;
   border-radius: 3px;
   font-size: 0.7rem;
@@ -127,8 +129,8 @@ span {
 }
 
 .months .btn:hover {
-  background-color: var(--secondary-color);
-  color: var(--quinary-color);
+  background-color: var(--primary-color);
+  color: white;
 }
 
 footer {
