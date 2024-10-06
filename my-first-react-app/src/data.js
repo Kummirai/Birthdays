@@ -21,7 +21,7 @@ export const birthdays = [
   {
     birth: "FEB",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/345592398_528440716012513_4836317305485648974_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=mLEqn8OmSVwQ7kNvgF_EybS&_nc_ht=scontent-jnb2-1.xx&oh=00_AYChikPpv_2eM9FOroZUqnXr88V2TzAGU6IZp-ARoElGkw&oe=66FE22E7",
+      "mobby.jpg",
     name: "Mobby Ndlovu",
     birthday: "19 Feb",
     job: notSubscribed,
@@ -30,7 +30,7 @@ export const birthdays = [
   {
     birth: "OCT",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/337275656_1147635109254061_3911228119345102921_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=JjsH1E0XDS0Q7kNvgGL1aap&_nc_ht=scontent-jnb2-1.xx&_nc_gid=ASYhuvzKXbTVhPV0fWwbJuc&oh=00_AYAeLcyNtwKVYwvdHBJE7b9eJCVMlsRhtTFvcbrFYONlFQ&oe=66FE2BC8",
+      "smah.jpg",
     name: "Smah Sibanda",
     birthday: "13 October",
     job: "notSubscribed",
@@ -39,7 +39,7 @@ export const birthdays = [
   {
     birth: "JUN",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/447620242_1261629068145245_7729968035912914238_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JU6ajLQkiz8Q7kNvgGz_pSN&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCOs7tbRrBHZfcmIK4X34beFTR7sFQvZuhHUT9CIGPQnA&oe=66FB8A28",
+      "zibusiso.jpg",
     name: "Zibusiso",
     birthday: "2024",
     job: notSubscribed,
@@ -48,7 +48,7 @@ export const birthdays = [
   {
     birth: "AUG",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/461326957_1678068659705430_2494753679609990368_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=X2PbtJZSKDcQ7kNvgExTzMK&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AFEDHyEYHVzv01Fp0YJaLKJ&oh=00_AYBcj5lAjJXQZM-bA7sNZ6VOtoRYNrMJYCKFqKqfYCKj2w&oe=66FE2245",
+      "fifi.jpg",
     name: "Fifi Masayi",
     birthday: "16 August",
     job: "R 100",
@@ -57,7 +57,7 @@ export const birthdays = [
   {
     birth: "JUL",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/449783164_7430234567099542_4572840874129830452_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4DPbuDFVUbcQ7kNvgHVQAsa&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AWX88gRhqxiGLD9g5Dq6PGf&oh=00_AYChHp399MPdo-CaBShryCAvI4sfyytSryMuivOkVz8xcQ&oe=66FE2DD4",
+      "gracious.jpg",
     name: "Gracious Mguni",
     birthday: "4 July",
     job: "R 280",
@@ -74,7 +74,7 @@ export const birthdays = [
   {
     birth: "JAN",
     image:
-      "https://images.pexels.com/photos/871495/pexels-photo-871495.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "lancy.jpeg",
     name: "Freelance Moyo",
     birthday: "23 Jan",
     job: notSubscribed,
@@ -83,7 +83,7 @@ export const birthdays = [
   {
     birth: "MAY",
     image:
-      "sakj.jpeg",
+      "sakhile.jpeg",
     name: "Sakhile Moyo",
     birthday: "29 May",
     job: "R 400",
@@ -91,7 +91,7 @@ export const birthdays = [
   },
   {
     birth: "DEC",
-    image: "./src/assets/audience.jpeg",
+    image: "audience.jpeg",
     name: "Audience Sibanda",
     birthday: "19 Dec",
     job: "R 380",
@@ -100,7 +100,7 @@ export const birthdays = [
   {
     birth: "APR",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.18169-9/10559856_534606840001198_2730786144975738687_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=ce0548&_nc_ohc=tc1HYhyybEgQ7kNvgGsKfeC&_nc_ht=scontent-jnb2-1.xx&oh=00_AYCgfdHtUa9RmeXVACPSDUegBlPTRvLxIp9FiOGznqLN8g&oe=671FD2B7",
+      "kk.jpeg",
     name: "Khulekani Khumalo",
     birthday: "23 April",
     job: "R 320",
@@ -109,7 +109,7 @@ export const birthdays = [
   {
     birth: "JAN",
     image:
-      "mzie.jpeg",
+      "mzie.jpg",
     name: "Mzingaye Ndebele",
     birthday: "5 Jan",
     job: "R 400",
@@ -127,7 +127,7 @@ export const birthdays = [
   {
     birth: "FEB",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/318758533_3249176942014946_8743894333049547814_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=OuISqD2HA3sQ7kNvgExmd0R&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A4IFuMLb9hOuZwwpoLwxdMh&oh=00_AYDWLOh550GaB8Facf_QYo2hj_loiV0Za5dl-vWrB9M5zw&oe=66FE382A",
+      "debra.jpg",
     name: "Debra Tshuma",
     birthday: "19 Feb",
     job: "R 230",
@@ -136,7 +136,7 @@ export const birthdays = [
   {
     birth: "MAR",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/379135827_1375694563342752_1654984553748806869_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zrx1K-2kniIQ7kNvgH4sEK4&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AcfcczVkpZmX6St6pWWmMhG&oh=00_AYBKogRF9-YTHL9W4mwl9QdxR1yu08IC_ZzMtg5FJVinow&oe=66FE3463",
+      "nosisa.jpg",
     name: "Nosisa Tshuma",
     birthday: "22 March",
     job: "R 180",
@@ -172,7 +172,7 @@ export const birthdays = [
   {
     birth: "MAY",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/404420774_6812595095503427_6457550863345402062_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Bf8aRi_dcwcQ7kNvgFPgAH7&_nc_ht=scontent-jnb2-1.xx&oh=00_AYBF_WPwAl8rq1MeEWNMYLBjoQagq-LjlRSQrZWoXYDfEQ&oe=66FE27A7",
+      "blessed.jpg",
     name: "Blessed Sibanda",
     birthday: "20 May",
     job: "R 0",
@@ -234,7 +234,7 @@ export const birthdays = [
   {
     birth: "OCT",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t1.6435-9/119738772_326901695052850_574529847236002070_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=REbOzviPoMMQ7kNvgEqa3Dn&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AZtjB26JqfRQ5r49Y6-x0p0&oh=00_AYD6gLp7H0wFarZg3xsqkZ7kyukw8qSW7nKWXQnHOlRq6w&oe=671FE476",
+      "sisa.jpg",
     name: "Sisa Nkala",
     birthday: "29 Oct",
     job: "R 220",
@@ -252,7 +252,7 @@ export const birthdays = [
   {
     birth: "DEC",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/408166509_303830285450453_3542580087578380878_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=GMJ1MyjOC6wQ7kNvgHQ1u-0&_nc_ht=scontent-jnb2-1.xx&_nc_gid=Am4_y0W1AipfJm5la1_QC4P&oh=00_AYC_gc4tSsDXx7iRCWqAl74Mz25b0SGAmuDijj4k4Vjg6A&oe=66FE452B",
+      "tala.jpg",
     name: "Talayiwa Ngwenya",
     birthday: "6 Dec",
     job: "R 230",
@@ -297,7 +297,7 @@ export const birthdays = [
   {
     birth: "APR",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/356887735_1672273903199442_3422658239553579572_n.jpg?stp=dst-jpg_s206x206&_nc_cat=103&ccb=1-7&_nc_sid=fe5ecc&_nc_ohc=2S01yL32EMcQ7kNvgE4LnF-&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AQ9TT3uwwtPQia8bgNmdCE9&oh=00_AYCKfWniLhDI52lsq1ArHZPT9C3BOX3JQxmSMAB1Mcz7OQ&oe=66FE2BB0",
+      "brian.jpg",
     name: "Brian Khabz",
     birthday: "5 April",
     job: notSubscribed,
@@ -360,7 +360,7 @@ export const birthdays = [
   {
     birth: "OCT",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/306515200_113160141531978_6632112991102497812_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=uo7kgsqLFuAQ7kNvgFkOOTd&_nc_ht=scontent-jnb2-1.xx&_nc_gid=ADCKfiaU34bcwssaAEZ0X_R&oh=00_AYC20NsVmFMMmxjOxai2bTUfBDZfXj-DEG2_bN6Vc16e4A&oe=66FE2DAF",
+      "masoe.jpg",
     name: "Faith Masoe",
     birthday: "3 October",
     job: notSubscribed,
@@ -467,7 +467,7 @@ export const birthdays = [
   {
     birth: "APR",
     image:
-      "https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/313346205_5431957586914268_964040798558381679_n.jpg?stp=c0.79.720.720a_cp6_dst-jpg_s206x206&_nc_cat=111&ccb=1-7&_nc_sid=714c7a&_nc_ohc=ijcAiip24HIQ7kNvgErwZU2&_nc_ht=scontent-jnb2-1.xx&_nc_gid=A4rG7ul14vqjTB_SBdzR6ZF&oh=00_AYDuoKZCaCV9M3BG8V766-gN1W9NcFVhCnos7z1G47NXOA&oe=66FB9B63",
+      "yvonne.jpg",
     name: "Yvonne Ndlovu",
     birthday: "25 April",
     job: notSubscribed,
