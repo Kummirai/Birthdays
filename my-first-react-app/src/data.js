@@ -270,7 +270,7 @@ export const birthdays = [
   {
     birth: "MAY",
     image:
-      "https://images.pexels.com/photos/5592306/pexels-photo-5592306.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "mzala.jpeg",
     name: "Dingani Mzala",
     birthday: "15 May",
     job: notSubscribed,
