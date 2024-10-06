@@ -1,9 +1,8 @@
 :root{
   --primary-color: #432344;
-  --secondary-color: #ffc03d;
-  --tertiary-color: #ba7c63;
-  --quaternary-color: #ffc03d;
-  --quinary-color: #e7eefb;
+  --secondary-color: #f7f7f7;
+  --third-color: #e7eefb;
+  --fourth-color: #5a6e94;
 }
 
 * {
@@ -54,7 +53,7 @@ body {
 }
 
 .birthdayCard {
-background-color: white;
+  background-color: var(--third-color);
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
@@ -81,8 +80,7 @@ background-color: white;
 }
 
 .birthday {
-  /* color: var(--primary-color); */
-  color: #5a6e94 ;
+  color: var(--fourth-color) ;
   font-size: 14px;
   margin: 3px 0;
 }
@@ -110,9 +108,8 @@ span {
 
 .months .btn {
   padding: 9px 18px;
-  /* background-color: var(--quinary-color); */
-  background-color: white;
-  color: #432344;
+  background-color: var(--third-color);
+  color: var(--primary-color);
   border-radius: 3px;
   font-size: 0.7rem;
   border: none;
@@ -121,7 +118,7 @@ span {
 
 .months .btn.active {
   background-color: var(--quaternary-color);
-  color: #432344;
+  color: var(--primary-color)
   padding: 9px 18px;
   border-radius: 3px;
   font-size: 0.7rem;
