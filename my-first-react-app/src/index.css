@@ -118,7 +118,7 @@ span {
 
 .months .btn.active {
   background-color: var(--quaternary-color);
-  color: var(--primary-color)
+  color: var(--primary-color);
   padding: 9px 18px;
   border-radius: 3px;
   font-size: 0.7rem;
