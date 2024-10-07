@@ -18,6 +18,9 @@ function Birthday(props) {
         <p className="birthday">
           <span>Payout : </span> {props.payout}
         </p>
+        <p className="jobTitle">
+          <span>Birthday In : </span> {props.days} days
+        </p>
       </div>
     </div>
   );
@@ -28,6 +31,7 @@ Birthday.propTypes = {
   birthday: PropTypes.string.isRequired,
   job: PropTypes.string.isRequired,
   payout: PropTypes.string.isRequired,
+  days: PropTypes.number.isRequired,
 };
 
 const MyApp = () => {
@@ -113,6 +117,7 @@ const MyApp = () => {
             birthday={birth.birthday}
             job={birth.job}
             payout={birth.payout}
+            days={birth.days}
           />
         ))}
       </div>

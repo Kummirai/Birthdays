@@ -1,6 +1,8 @@
 const payouts = ["Received", "Pending", "notSubscribed"];
 const [Received, Pending, notSubscribed] = payouts;
 
+const currentDateTime = new Date();
+
 export const birthdays = [
   {
     birth: "SEPT",
@@ -9,6 +11,9 @@ export const birthdays = [
     birthday: "18 Sept",
     job: "R 100",
     payout: Pending,
+    days: Math.ceil(
+      (new Date("2025-09-18").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "SEPT",
@@ -17,51 +22,60 @@ export const birthdays = [
     birthday: "29 Sept",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.ceil(
+      (new Date("2025-09-29").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "FEB",
-    image:
-      "mobby.jpg",
+    image: "mobby.jpg",
     name: "Mobby Ndlovu",
     birthday: "19 Feb",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.ceil(
+      (new Date("2025-02-19").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "OCT",
-    image:
-      "smah.jpg",
+    image: "smah.jpg",
     name: "Smah Sibanda",
     birthday: "13 October",
     job: "notSubscribed",
     payout: notSubscribed,
+    days: Math.ceil(
+      (new Date("2024-10-13").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "JUN",
-    image:
-      "zibusiso.jpg",
+    image: "zibusiso.jpg",
     name: "Zibusiso",
     birthday: "2024",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor(
+      (new Date("2025-06-01").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "AUG",
-    image:
-      "fifi.jpg",
+    image: "fifi.jpg",
     name: "Fifi Masayi",
     birthday: "16 August",
     job: "R 100",
     payout: Received,
+    days: Math.floor((new Date("25-08-16") - currentDateTime) / 86400000),
   },
   {
     birth: "JUL",
-    image:
-      "gracious.jpg",
+    image: "gracious.jpg",
     name: "Gracious Mguni",
     birthday: "4 July",
     job: "R 280",
     payout: Received,
+    days: Math.floor((new Date("25-07-04") - currentDateTime) / 86400000),
   },
   {
     birth: "SEPT",
@@ -70,24 +84,25 @@ export const birthdays = [
     birthday: "28 September",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-09-28") - currentDateTime) / 86400000),
   },
   {
     birth: "JAN",
-    image:
-      "lancy.jpeg",
+    image: "lancy.jpeg",
     name: "Freelance Moyo",
     birthday: "23 Jan",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-01-23") - currentDateTime) / 86400000),
   },
   {
     birth: "MAY",
-    image:
-      "sakhile.jpeg",
+    image: "sakhile.jpeg",
     name: "Sakhile Moyo",
     birthday: "29 May",
     job: "R 400",
     payout: Received,
+    days: Math.floor((new Date("25-05-29") - currentDateTime) / 86400000),
   },
   {
     birth: "DEC",
@@ -96,24 +111,25 @@ export const birthdays = [
     birthday: "19 Dec",
     job: "R 380",
     payout: Pending,
+    days: Math.floor((new Date("25-12-19") - currentDateTime) / 86400000),
   },
   {
     birth: "APR",
-    image:
-      "kk.jpeg",
+    image: "kk.jpeg",
     name: "Khulekani Khumalo",
     birthday: "23 April",
     job: "R 320",
     payout: Received,
+    days: Math.floor((new Date("25-04-23") - currentDateTime) / 86400000),
   },
   {
     birth: "JAN",
-    image:
-      "mzie.jpg",
+    image: "mzie.jpg",
     name: "Mzingaye Ndebele",
     birthday: "5 Jan",
     job: "R 400",
     payout: Received,
+    days: Math.floor((new Date("25-01-05") - currentDateTime) / 86400000),
   },
   {
     birth: "JAN",
@@ -123,33 +139,34 @@ export const birthdays = [
     birthday: "6 Jan",
     job: "R 280",
     payout: Received,
+    days: Math.floor((new Date("25-01-06") - currentDateTime) / 86400000),
   },
   {
     birth: "FEB",
-    image:
-      "debra.jpg",
+    image: "debra.jpg",
     name: "Debra Tshuma",
     birthday: "19 Feb",
     job: "R 230",
     payout: Received,
+    days: Math.floor((new Date("25-02-19") - currentDateTime) / 86400000),
   },
   {
     birth: "MAR",
-    image:
-      "nosisa.jpg",
+    image: "nosisa.jpg",
     name: "Nosisa Tshuma",
     birthday: "22 March",
     job: "R 0",
     payout: Received,
+    days: Math.floor((new Date("25-03-22") - currentDateTime) / 86400000),
   },
   {
     birth: "MAY",
-    image:
-      "senzile.jpeg",
+    image: "senzile.jpeg",
     name: "Senzile Dube",
     birthday: "14 May",
     job: "R 440",
     payout: Pending,
+    days: Math.floor((new Date("25-05-14") - currentDateTime) / 86400000),
   },
   {
     birth: "MAY",
@@ -159,6 +176,7 @@ export const birthdays = [
     birthday: "17 May",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-05-17") - currentDateTime) / 86400000),
   },
   {
     birth: "MAY",
@@ -168,15 +186,16 @@ export const birthdays = [
     birthday: "18 May",
     job: "R 40",
     payout: Received,
+    days: Math.floor((new Date("25-05-18") - currentDateTime) / 86400000),
   },
   {
     birth: "MAY",
-    image:
-      "blessed.jpg",
+    image: "blessed.jpg",
     name: "Blessed Sibanda",
     birthday: "20 May",
     job: "R 0",
     payout: Received,
+    days: Math.floor((new Date("25-05-20") - currentDateTime) / 86400000),
   },
   {
     birth: "MAY",
@@ -186,6 +205,7 @@ export const birthdays = [
     birthday: "29 May",
     job: "R 50",
     payout: Received,
+    days: Math.floor((new Date("25-05-29") - currentDateTime) / 86400000),
   },
   {
     birth: "JUL",
@@ -195,6 +215,7 @@ export const birthdays = [
     birthday: "23 July",
     job: "R 280",
     payout: Received,
+    days: Math.floor((new Date("25-07-23") - currentDateTime) / 86400000),
   },
   {
     birth: "AUG",
@@ -204,15 +225,16 @@ export const birthdays = [
     birthday: "25 August",
     job: "R 300",
     payout: Received,
+    days: Math.floor((new Date("25-08-25") - currentDateTime) / 86400000),
   },
   {
     birth: "AUG",
-    image:
-      "pamela.jpeg",
+    image: "pamela.jpeg",
     name: "Pamela Phiri",
     birthday: "29 August",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-08-29") - currentDateTime) / 86400000),
   },
   {
     birth: "SEPT",
@@ -221,42 +243,43 @@ export const birthdays = [
     birthday: "30 Sept",
     job: "R 200",
     payout: Pending,
+    days: Math.floor((new Date("25-09-30") - currentDateTime) / 86400000),
   },
   {
     birth: "OCT",
-    image:
-      "lulu.jpeg",
+    image: "lulu.jpeg",
     name: "Patie Sibanda",
     birthday: "24 October",
     job: "R 440",
     payout: Pending,
+    days: Math.floor((new Date("24-10-24") - currentDateTime) / 86400000),
   },
   {
     birth: "OCT",
-    image:
-      "sisa.jpg",
+    image: "sisa.jpg",
     name: "Sisa Nkala",
     birthday: "29 Oct",
     job: "R 220",
     payout: Pending,
+    days: Math.floor((new Date("24-10-29") - currentDateTime) / 86400000),
   },
   {
     birth: "NOV",
-    image:
-      "mongezi.jpeg",
+    image: "mongezi.jpeg",
     name: "Mongezi Mpofu",
     birthday: "29 Nov",
     job: "R 260",
     payout: Pending,
+    days: Math.floor((new Date("24-11-29") - currentDateTime) / 86400000),
   },
   {
     birth: "DEC",
-    image:
-      "tala.jpg",
+    image: "tala.jpg",
     name: "Talayiwa Ngwenya",
     birthday: "6 Dec",
     job: "R 230",
     payout: Pending,
+    days: Math.floor((new Date("24-12-06") - currentDateTime) / 86400000),
   },
   {
     birth: "JAN",
@@ -266,24 +289,25 @@ export const birthdays = [
     birthday: "18 Jan",
     job: "R 280",
     payout: Received,
+    days: Math.floor((new Date("25-01-18") - currentDateTime) / 86400000),
   },
   {
     birth: "MAY",
-    image:
-      "mzala.jpeg",
+    image: "mzala.jpeg",
     name: "Dingani Mzala",
     birthday: "15 May",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-05-15") - currentDateTime) / 86400000),
   },
   {
     birth: "APR",
-    image:
-      "tk.jpeg",
+    image: "tk.jpeg",
     name: "Talent Khumalo",
     birthday: "3 April",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-04-03") - currentDateTime) / 86400000),
   },
   {
     birth: "JAN",
@@ -293,15 +317,16 @@ export const birthdays = [
     birthday: "4 Jan",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-01-04") - currentDateTime) / 86400000),
   },
   {
     birth: "APR",
-    image:
-      "brian.jpg",
+    image: "brian.jpg",
     name: "Brian Khabz",
     birthday: "5 April",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-04-05") - currentDateTime) / 86400000),
   },
   {
     birth: "MAY",
@@ -311,6 +336,7 @@ export const birthdays = [
     birthday: "11 May",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-05-11") - currentDateTime) / 86400000),
   },
   {
     birth: "MAY",
@@ -320,6 +346,7 @@ export const birthdays = [
     birthday: "28 May",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-05-28") - currentDateTime) / 86400000),
   },
   {
     birth: "JUL",
@@ -329,6 +356,7 @@ export const birthdays = [
     birthday: "27 July",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-07-27") - currentDateTime) / 86400000),
   },
   {
     birth: "OCT",
@@ -338,6 +366,7 @@ export const birthdays = [
     birthday: "26 October",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("24-10-26") - currentDateTime) / 86400000),
   },
   {
     birth: "NOV",
@@ -347,6 +376,7 @@ export const birthdays = [
     birthday: "26 November",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("24-11-26") - currentDateTime) / 86400000),
   },
   {
     birth: "DEC",
@@ -356,15 +386,16 @@ export const birthdays = [
     birthday: "6 December",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("24-12-06") - currentDateTime) / 86400000),
   },
   {
     birth: "OCT",
-    image:
-      "masoe.jpg",
+    image: "masoe.jpg",
     name: "Faith Masoe",
     birthday: "3 October",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-10-03") - currentDateTime) / 86400000),
   },
   {
     birth: "DEC",
@@ -374,6 +405,7 @@ export const birthdays = [
     birthday: "19 December",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("24-12-19") - currentDateTime) / 86400000),
   },
   {
     birth: "SEPT",
@@ -382,6 +414,7 @@ export const birthdays = [
     birthday: "18 Sept",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-09-18") - currentDateTime) / 86400000),
   },
   {
     birth: "MAY",
@@ -391,6 +424,7 @@ export const birthdays = [
     birthday: "26 May",
     job: "R 280",
     payout: Received,
+    days: Math.floor((new Date("25-05-26") - currentDateTime) / 86400000),
   },
   {
     birth: "JUN",
@@ -400,6 +434,7 @@ export const birthdays = [
     birthday: "2024",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-06-01") - currentDateTime) / 86400000),
   },
   {
     birth: "JUN",
@@ -409,15 +444,17 @@ export const birthdays = [
     birthday: "2024",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-06-01") - currentDateTime) / 86400000),
   },
   {
-    birth: "JUN",
+    birth: "MAR",
     image:
       "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&w=400",
     name: "Nomsa Ncube",
-    birthday: "2024",
+    birthday: "25 March",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-03-25") - currentDateTime) / 86400000),
   },
   {
     birth: "JUN",
@@ -427,6 +464,7 @@ export const birthdays = [
     birthday: "2024",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-06-01") - currentDateTime) / 86400000),
   },
   {
     birth: "JUN",
@@ -436,6 +474,7 @@ export const birthdays = [
     birthday: "2024",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-06-01") - currentDateTime) / 86400000),
   },
   {
     birth: "SEPT",
@@ -444,6 +483,7 @@ export const birthdays = [
     birthday: "28 September",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-09-28") - currentDateTime) / 86400000),
   },
 
   {
@@ -454,23 +494,24 @@ export const birthdays = [
     birthday: "2024",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-06-01") - currentDateTime) / 86400000),
   },
   {
     birth: "JAN",
-    image:
-      "stha.jpg",
+    image: "stha.jpg",
     name: "Stha Khumalo",
     birthday: "10 January",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-01-10") - currentDateTime) / 86400000),
   },
   {
     birth: "APR",
-    image:
-      "yvonne.jpg",
+    image: "yvonne.jpg",
     name: "Yvonne Ndlovu",
     birthday: "25 April",
     job: notSubscribed,
     payout: notSubscribed,
+    days: Math.floor((new Date("25-04-25") - currentDateTime) / 86400000),
   },
 ];
