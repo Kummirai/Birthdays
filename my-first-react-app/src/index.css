@@ -157,6 +157,10 @@ footer p {
   font-size: 14px;
 }
 
+.makeBold{
+  font-weight: 600;
+}
+
 @media screen and (max-width: 768px) {
   footer {
     display: block;

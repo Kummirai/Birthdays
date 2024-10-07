@@ -18,7 +18,7 @@ function Birthday(props) {
         <p className="birthday">
           <span>Payout : </span> {props.payout}
         </p>
-        <p className="jobTitle">
+        <p className="jobTitle makeBold">
           <span>Birthday In : </span> {props.days} days
         </p>
       </div>
