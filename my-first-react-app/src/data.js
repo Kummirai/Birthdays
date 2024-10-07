@@ -55,7 +55,7 @@ export const birthdays = [
     birthday: "2024",
     job: notSubscribed,
     payout: notSubscribed,
-    days: Math.floor(
+    days: Math.ceil(
       (new Date("2025-06-01").getTime() - new Date().getTime()) / 86400000
     ),
   },
@@ -66,7 +66,9 @@ export const birthdays = [
     birthday: "16 August",
     job: "R 100",
     payout: Received,
-    days: Math.floor((new Date("25-08-16") - currentDateTime) / 86400000),
+    days: Math.ceil(
+      (new Date("2025-08-16").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "JUL",
@@ -75,7 +77,9 @@ export const birthdays = [
     birthday: "4 July",
     job: "R 280",
     payout: Received,
-    days: Math.floor((new Date("25-07-04") - currentDateTime) / 86400000),
+    days: Math.ceil(
+      (new Date("2025-07-04").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "SEPT",
@@ -84,7 +88,9 @@ export const birthdays = [
     birthday: "28 September",
     job: notSubscribed,
     payout: notSubscribed,
-    days: Math.floor((new Date("25-09-28") - currentDateTime) / 86400000),
+    days: Math.ceil(
+      (new Date("2025-09-28").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "JAN",
@@ -93,7 +99,9 @@ export const birthdays = [
     birthday: "23 Jan",
     job: notSubscribed,
     payout: notSubscribed,
-    days: Math.floor((new Date("25-01-23") - currentDateTime) / 86400000),
+    days: Math.ceil(
+      (new Date("2025-01-23").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "MAY",
@@ -102,7 +110,9 @@ export const birthdays = [
     birthday: "29 May",
     job: "R 400",
     payout: Received,
-    days: Math.floor((new Date("25-05-29") - currentDateTime) / 86400000),
+    days: Math.ceil(
+      (new Date("2025-05-29").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "DEC",
@@ -111,7 +121,9 @@ export const birthdays = [
     birthday: "19 Dec",
     job: "R 380",
     payout: Pending,
-    days: Math.floor((new Date("25-12-19") - currentDateTime) / 86400000),
+    days: Math.ceil(
+      (new Date("2024-12-19").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "APR",
@@ -120,7 +132,9 @@ export const birthdays = [
     birthday: "23 April",
     job: "R 320",
     payout: Received,
-    days: Math.floor((new Date("25-04-23") - currentDateTime) / 86400000),
+    days: Math.ceil(
+      (new Date("2025-04-23").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "JAN",
@@ -129,7 +143,9 @@ export const birthdays = [
     birthday: "5 Jan",
     job: "R 400",
     payout: Received,
-    days: Math.floor((new Date("25-01-05") - currentDateTime) / 86400000),
+    days: Math.ceil(
+      (new Date("2025-01-05").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "JAN",
@@ -139,7 +155,9 @@ export const birthdays = [
     birthday: "6 Jan",
     job: "R 280",
     payout: Received,
-    days: Math.floor((new Date("25-01-06") - currentDateTime) / 86400000),
+    days: Math.ceil(
+      (new Date("2025-01-06").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "FEB",
@@ -148,7 +166,9 @@ export const birthdays = [
     birthday: "19 Feb",
     job: "R 230",
     payout: Received,
-    days: Math.floor((new Date("25-02-19") - currentDateTime) / 86400000),
+    days: Math.ceil(
+      (new Date("2025-02-19").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "MAR",
@@ -157,7 +177,9 @@ export const birthdays = [
     birthday: "22 March",
     job: "R 0",
     payout: Received,
-    days: Math.floor((new Date("25-03-22") - currentDateTime) / 86400000),
+    days: Math.ceil(
+      (new Date("2025-03-22").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "MAY",
@@ -166,7 +188,9 @@ export const birthdays = [
     birthday: "14 May",
     job: "R 440",
     payout: Pending,
-    days: Math.floor((new Date("25-05-14") - currentDateTime) / 86400000),
+    days: Math.ceil(
+      (new Date("2025-05-14").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "MAY",
@@ -176,7 +200,9 @@ export const birthdays = [
     birthday: "17 May",
     job: notSubscribed,
     payout: notSubscribed,
-    days: Math.floor((new Date("25-05-17") - currentDateTime) / 86400000),
+    days: Math.ceil(
+      (new Date("2025-05-17").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "MAY",
@@ -186,7 +212,9 @@ export const birthdays = [
     birthday: "18 May",
     job: "R 40",
     payout: Received,
-    days: Math.floor((new Date("25-05-18") - currentDateTime) / 86400000),
+    days: Math.ceil(
+      (new Date("2025-05-18").getTime() - new Date().getTime()) / 86400000
+    ),
   },
   {
     birth: "MAY",
