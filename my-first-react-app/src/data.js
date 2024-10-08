@@ -42,7 +42,7 @@ export const birthdays = [
     birthday: "13 October",
     job: "notSubscribed",
     payout: notSubscribed,
-    days: numberOfDays("2025-10-13"),
+    days: numberOfDays("2024-10-13"),
   },
   {
     birth: "JUN",
