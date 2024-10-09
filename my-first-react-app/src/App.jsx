@@ -19,7 +19,13 @@ function Birthday(props) {
           <span>Payout : </span> {props.payout}
         </p>
         <p className="jobTitle makeBold">
-          <span>Birthday In : </span> {props.days} days
+          {props.days === 0 ? (
+            <span className="first-span">Birthday Is Today</span>
+          ) : props.days === 1 ? (
+            <span className="first-span">Birthday Is Tomorrow</span>
+          ) : (
+            <span>Birthday In: {props.days} days</span>
+          )}
         </p>
       </div>
     </div>

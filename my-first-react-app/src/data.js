@@ -1,7 +1,7 @@
 const payouts = ["Received", "Pending", "notSubscribed"];
 const [Received, Pending, notSubscribed] = payouts;
 
-const numberOfDays = (birthDate) => {
+export const numberOfDays = (birthDate) => {
   return Math.ceil(
     (new Date(birthDate).getTime() - new Date().getTime()) / 86400000
   );
