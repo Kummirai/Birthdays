@@ -2,7 +2,10 @@ const payouts = ["Received", "Pending", "notSubscribed"];
 const [Received, Pending, notSubscribed] = payouts;
 
 export const numberOfDays = (birthDate) => {
-  if (new Date(birthDate).getTime() < new Date().getTime()) {
+  if (
+    new Date(birthDate).getTime() / 86400000 - new Date().getTime() / 86400000 <
+    -2
+  ) {
     birthDate = `${new Date().getFullYear() + 1}-${birthDate.split("-")[1]}-${
       birthDate.split("-")[2]
     }`;
@@ -23,7 +26,7 @@ export const birthdays = [
     birthday: "18 Sept",
     job: "R 100",
     payout: Pending,
-    days: numberOfDays("2024-09-18"),
+    days: numberOfDays("2024-10-07"),
   },
   {
     birth: "SEPT",
