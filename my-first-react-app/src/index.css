@@ -166,7 +166,7 @@ footer p {
 .makeBold .first-span {
   color: var(--secondary-color);
   background-color: var(--fourth-color);
-  padding: 4px 12px;
+  padding: 6px 12px;
   border-radius: 2px;
 }
 
@@ -174,7 +174,7 @@ footer p {
   font-weight: 400;
   background-color: var(--primary-color);
   color: var(--secondary-color);
-  padding: 4px 12px;
+  padding: 6px 12px;
   border-radius: 2px;
 }
 @media screen and (max-width: 768px) {
