@@ -23,6 +23,8 @@ function Birthday(props) {
             <span className="first-span">Birthday Is Today</span>
           ) : props.days === 1 ? (
             <span className="first-span">Birthday Is Tomorrow</span>
+          ) : props.days === -1 ? ( 
+            <span className="first-span">Birthday Was Yesterday</span> 
           ) : (
             <span>Birthday In: {props.days} days</span>
           )}

@@ -15,7 +15,7 @@ export const birthdays = [
     birthday: "18 Sept",
     job: "R 100",
     payout: Pending,
-    days: numberOfDays("2025-09-18"),
+    days: numberOfDays("2024-10-08"),
   },
   {
     birth: "SEPT",
