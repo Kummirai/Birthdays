@@ -23,8 +23,8 @@ function Birthday(props) {
             <span className="first-span">Birthday Is Today</span>
           ) : props.days === 1 ? (
             <span className="first-span">Birthday Is Tomorrow</span>
-          ) : props.days === -1 ? ( 
-            <span className="first-span">Birthday Was Yesterday</span> 
+          ) : props.days === -1 ? (
+            <span className="first-span">Birthday Was Yesterday</span>
           ) : (
             <span>Birthday In: {props.days} days</span>
           )}
@@ -116,18 +116,19 @@ const MyApp = () => {
             month={months[11]}
           />
         </div>
-
-        {myBirthdays.map((birth, index) => (
-          <Birthday
-            key={index}
-            image={birth.image}
-            name={birth.name}
-            birthday={birth.birthday}
-            job={birth.job}
-            payout={birth.payout}
-            days={birth.days}
-          />
-        ))}
+        <div className="card-container-specific">
+          {myBirthdays.map((birth, index) => (
+            <Birthday
+              key={index}
+              image={birth.image}
+              name={birth.name}
+              birthday={birth.birthday}
+              job={birth.job}
+              payout={birth.payout}
+              days={birth.days}
+            />
+          ))}
+        </div>
       </div>
     </>
   );
