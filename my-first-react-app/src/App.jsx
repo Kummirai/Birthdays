@@ -116,19 +116,17 @@ const MyApp = () => {
             month={months[11]}
           />
         </div>
-        <div className="card-container-specific">
-          {myBirthdays.map((birth, index) => (
-            <Birthday
-              key={index}
-              image={birth.image}
-              name={birth.name}
-              birthday={birth.birthday}
-              job={birth.job}
-              payout={birth.payout}
-              days={birth.days}
-            />
-          ))}
-        </div>
+        {myBirthdays.map((birth, index) => (
+          <Birthday
+            key={index}
+            image={birth.image}
+            name={birth.name}
+            birthday={birth.birthday}
+            job={birth.job}
+            payout={birth.payout}
+            days={birth.days}
+          />
+        ))}
       </div>
     </>
   );
