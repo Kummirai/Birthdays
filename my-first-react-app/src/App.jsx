@@ -119,7 +119,11 @@ const MyApp = () => {
         {myBirthdays.map((birth, index) => (
           <Birthday
             key={index}
-            image={birth.image}
+            image={
+              birth.image === null
+                ? "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+                : birth.image
+            }
             name={birth.name}
             birthday={birth.birthday}
             job={birth.job}
